@@ -3,6 +3,8 @@
 One crude MS Paint-style frame per script timestamp (91 total). 16:9, generated on Higgsfield (`gpt_image_2_5`, medium quality),
 Higgsfield project **Before Fire - MS Paint Storyboard**. The script restarts at 0:00 halfway, so it's split into Part 1 (A) and Part 2 (B).
 
+**Full slideshow video (8:42, 1080p, frames timed to the script):** https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/2c8be880-8e01-4592-8976-ffa447c2939a.mp4
+
 Shared style prompt (prefixed to every frame) is in `scenes.json`.
 
 ## Part 1
