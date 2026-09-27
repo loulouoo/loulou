@@ -1,0 +1,824 @@
+{
+  "style": "Crude, bad MS Paint doodle drawn with a mouse by someone with zero drawing skill - rushed, amateur, funny, deliberately clumsy. Plain pure white background with lots of empty white space. Thick uneven wobbly shaky black outlines. Stick figures with plain dot eyes and minimal expressions. Flat colour fills only, used sparingly (green, brown, grey, red, yellow, orange, blue). Red arrows or red question marks for emphasis. NO shading, NO gradients, NO 3D, NO texture, NO lighting effects, not polished, not vector art, not cartoon/Disney/anime style. Simple uncluttered composition, subject centred with breathing room, nothing cropped. Wide horizontal YouTube video still. Any text is short handwritten scrawl, correctly spelled and legible.",
+  "scenes": [
+    {
+      "id": "A00",
+      "part": 1,
+      "t": "0:00",
+      "line": "Right now, if the power went out for one night, you'd panic. No lights, no heat, no way to cook,",
+      "scene": "A stick figure standing in a dark room (room is a crude black-filled box) holding a phone with a dead black screen, a light bulb above them with a red X over it, the stick figure has wide circle eyes and a wobbly panicked mouth, small scribbled sweat drops. Handwritten text at top: \"POWER OUT!\"",
+      "job_id": "f19feedc-3379-49f1-beb0-e1bfcbdf1c1a",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_165801_f19feedc-3379-49f1-beb0-e1bfcbdf1c1a.png"
+    },
+    {
+      "id": "A01",
+      "part": 1,
+      "t": "0:06",
+      "line": "no phone. You'd survive it, barely, and you'd complain about it for a week.",
+      "scene": "A grumpy stick figure sitting on a crude bed with a flat frowning mouth, a speech bubble saying \"UGH\". On the wall a simple calendar grid with 7 boxes each crossed out with red X marks.",
+      "job_id": "dce3b799-e1fe-41c6-9ed2-428651143986",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170135_dce3b799-e1fe-41c6-9ed2-428651143986.png"
+    },
+    {
+      "id": "A02",
+      "part": 1,
+      "t": "0:12",
+      "line": "Now rewind. Not fifty thousand years. Rewind over a million years.",
+      "scene": "A big crude red rewind symbol (two left-pointing triangles) in the centre. Below it a wobbly black timeline arrow pointing left. On the timeline, \"50,000 YRS\" is scribbled out with a red line, and further left a mark labelled \"1,000,000+ YRS\".",
+      "job_id": "2d2fdb79-7bc0-47a4-a916-dfae4bf8f832",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170326_2d2fdb79-7bc0-47a4-a916-dfae4bf8f832.png"
+    },
+    {
+      "id": "A03",
+      "part": 1,
+      "t": "0:20",
+      "line": "Before fire. A woman is sitting in total darkness, no flame, no light.",
+      "scene": "A big black-filled wobbly rectangle representing darkness in the middle of the white page. Inside it a stick-figure woman (a few scribbly hair lines) sits on the ground hugging her knees, drawn in white lines with white dot eyes. Beside her a small pile of brown sticks with a red X over it (no fire).",
+      "job_id": "a4c84603-db9b-43b9-a7ed-2cf3828f8c17",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170136_a4c84603-db9b-43b9-a7ed-2cf3828f8c17.png"
+    },
+    {
+      "id": "A04",
+      "part": 1,
+      "t": "0:26",
+      "line": "Somewhere out there, in that darkness, are teeth bigger than yours, and eyes that can see in the dark far better than yours ever will.",
+      "scene": "A black scribbled night blob covering the centre. Inside it several pairs of yellow dot eyes and one huge crude jagged white toothy grin. At the edge of the blob, a tiny stick-figure woman with wide circle eyes looking at it nervously.",
+      "job_id": "2592e71f-bdef-4907-a5c4-9e9b4b16c99d",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170136_2592e71f-bdef-4907-a5c4-9e9b4b16c99d.png"
+    },
+    {
+      "id": "A05",
+      "part": 1,
+      "t": "0:31",
+      "line": "She has no weapon that shoots, no wall that locks, no torch to hold up.",
+      "scene": "Three crude doodle icons in a row: a bow and arrow, a brick wall with a padlock, and a burning torch. Each one is crossed out with a big red X. Below them a stick-figure woman shrugging with arms out.",
+      "job_id": "a3b1c03e-b737-4d3a-8f9a-16f2ec1abde0",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170135_a3b1c03e-b737-4d3a-8f9a-16f2ec1abde0.png"
+    },
+    {
+      "id": "A06",
+      "part": 1,
+      "t": "0:37",
+      "line": "Just her body, her group, and the night. And she survives it.",
+      "scene": "A small group of five stick figures standing close together under a crude yellow crescent moon and a few scribbled yellow stars on a black-filled sky band at the top. A small green checkmark next to the group.",
+      "job_id": "68e82ca3-31a2-44bb-8a91-58264f538eff",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170326_68e82ca3-31a2-44bb-8a91-58264f538eff.png"
+    },
+    {
+      "id": "A07",
+      "part": 1,
+      "t": "0:44",
+      "line": "Not once. For hundreds of thousands of years, her entire species survives it, night after night, with nothing burning to protect them.",
+      "scene": "A long row of repeating small panels across the page like a comic strip, each panel with a crude yellow moon and a tiny group of stick figures, getting smaller toward the right. A red arrow runs underneath with handwritten text \"NIGHT AFTER NIGHT\".",
+      "job_id": "7c1f1ffd-7afa-4fc5-b8c6-7ea1460f7c63",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170136_7c1f1ffd-7afa-4fc5-b8c6-7ea1460f7c63.png"
+    },
+    {
+      "id": "A08",
+      "part": 1,
+      "t": "0:50",
+      "line": "That opens up a question that should terrify you a little.",
+      "scene": "One giant wobbly red question mark in the centre. A small stick figure next to it with wide circle eyes, tiny shaky lines around its knees, looking up at the question mark.",
+      "job_id": "25d213ed-76b0-4bef-af72-ccbdfbd940b0",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170135_25d213ed-76b0-4bef-af72-ccbdfbd940b0.png"
+    },
+    {
+      "id": "A09",
+      "part": 1,
+      "t": "0:55",
+      "line": "How do you live on a planet built to kill you with no fire at all?",
+      "scene": "A crude round planet Earth (flat blue circle with green blobs) with angry eyebrows and a jagged mouth full of teeth. A tiny stick figure stands on top of it looking worried. Next to it a small flame icon crossed out with a red X.",
+      "job_id": "0c50dfe4-47a1-4dfa-b8b9-1ccef61eace6",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170135_0c50dfe4-47a1-4dfa-b8b9-1ccef61eace6.png"
+    },
+    {
+      "id": "A10",
+      "part": 1,
+      "t": "1:01",
+      "line": "And when scientists finally pieced together the answer, it didn't just explain the past. It exposed something we...",
+      "scene": "A stick-figure scientist in a white rectangle lab coat with circle glasses, fitting two big crude jigsaw puzzle pieces together. A yellow light bulb above their head.",
+      "job_id": "de727a23-508f-4684-8b58-bc75d785a0cc",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170135_de727a23-508f-4684-8b58-bc75d785a0cc.png"
+    },
+    {
+      "id": "A11",
+      "part": 1,
+      "t": "1:08",
+      "line": "Here's what you probably picture. Cavemen shivering in a cave, freezing, eating raw meat, huddled together because they're helpless without fire.",
+      "scene": "A modern stick figure on the left with a big thought bubble. Inside the bubble: a crude grey cave arch with three stick cavemen huddled and shivering (wobble lines), one holding a red lump of raw meat on a bone.",
+      "job_id": "e1d98c12-b7e0-4fb9-afa0-faac03519264",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170134_e1d98c12-b7e0-4fb9-afa0-faac03519264.png"
+    },
+    {
+      "id": "A12",
+      "part": 1,
+      "t": "1:15",
+      "line": "Fire is the thing that made us human. No fire equals barely surviving, one step above an animal.",
+      "scene": "A crude staircase with two steps. On the bottom step a simple brown four-legged doodle animal. On the step just above it a hunched stick figure. A small flame icon crossed out with a red X floats beside the stairs with an equals sign pointing at the stick figure.",
+      "job_id": "16a6b293-2155-4bbd-aa72-9c61ad090edb",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170136_16a6b293-2155-4bbd-aa72-9c61ad090edb.png"
+    },
+    {
+      "id": "A13",
+      "part": 1,
+      "t": "1:23",
+      "line": "That's the story that gets repeated in every textbook illustration.",
+      "scene": "A big open brown-covered textbook in the centre. On its pages a crude little drawing of a sad caveman in a cave. Handwritten label above the book: \"TEXTBOOK\".",
+      "job_id": "2b6e0f12-57c9-4b04-aa6f-e8b72cdf33d7",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170231_2b6e0f12-57c9-4b04-aa6f-e8b72cdf33d7.png"
+    },
+    {
+      "id": "A14",
+      "part": 1,
+      "t": "1:30",
+      "line": "Dark cave, cold, miserable, waiting for someone to invent fire so real life could finally start.",
+      "scene": "A stick caveman sitting alone inside a grey cave arch with a sad mouth, blue snowflakes falling around. A crude clock on the cave wall. A thought bubble above him containing an orange flame and a red question mark.",
+      "job_id": "b05fb72c-fdbf-4131-bcfc-c2135b979e01",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170231_b05fb72c-fdbf-4131-bcfc-c2135b979e01.png"
+    },
+    {
+      "id": "A15",
+      "part": 1,
+      "t": "1:36",
+      "line": "It's wrong. Or at least, it's missing almost the entire picture.",
+      "scene": "A crude picture frame containing a tiny sad caveman in a cave. A huge red X is slashed across the whole frame. Big red handwritten text: \"WRONG\".",
+      "job_id": "8783c743-9ae6-4dbf-b75f-f975d829abaf",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170231_8783c743-9ae6-4dbf-b75f-f975d829abaf.png"
+    },
+    {
+      "id": "A16",
+      "part": 1,
+      "t": "1:41",
+      "line": "Because here's what the ground actually says. The earliest confirmed control of fire by our ancestors is around one million years ago,",
+      "scene": "A brown strip of ground across the bottom with a stick figure holding a small shovel. Above, a wobbly black timeline arrow with one small orange flame marker on it labelled \"1 MILLION YRS AGO\".",
+      "job_id": "2bd23475-e922-4c17-816f-71e2c7255516",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170326_2bd23475-e922-4c17-816f-71e2c7255516.png"
+    },
+    {
+      "id": "A17",
+      "part": 1,
+      "t": "1:46",
+      "line": "at a site called Wonderwerk Cave in South Africa, burnt bone and ash deep inside the cave,",
+      "scene": "A crude side view of a long grey cave tunnel going deep into a brown hill. At the very back of the tunnel a small grey ash pile and a black burnt bone. A red arrow points to it with handwritten text \"DEEP INSIDE\".",
+      "job_id": "094c68e2-7e21-43ad-8d02-90a353525349",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170232_094c68e2-7e21-43ad-8d02-90a353525349.png"
+    },
+    {
+      "id": "A18",
+      "part": 1,
+      "t": "1:53",
+      "line": "too far in for a wildfire to have reached naturally.",
+      "scene": "On the left, a wildfire: crude green lollipop trees with jagged orange and red flames. A dotted black arrow goes from the fire toward a grey cave opening on the right, but stops short with a big red X before entering the cave.",
+      "job_id": "b235a18b-e7f3-47a5-aaa9-c31c4e0dd3b5",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170231_b235a18b-e7f3-47a5-aaa9-c31c4e0dd3b5.png"
+    },
+    {
+      "id": "A19",
+      "part": 1,
+      "t": "1:59",
+      "line": "But the genus Homo, bodies built essentially like ours, walking upright, using tools, goes back roughly two million years before that.",
+      "scene": "A stick figure walking upright, holding a crude grey triangle stone tool. A small label under them: \"2 MILLION YRS\". A small arrow showing walking direction.",
+      "job_id": "e2c6bbe9-adca-4aac-8804-d13e14c4df96",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170232_e2c6bbe9-adca-4aac-8804-d13e14c4df96.png"
+    },
+    {
+      "id": "A20",
+      "part": 1,
+      "t": "2:06",
+      "line": "That's a staggering stretch of time,",
+      "scene": "A very long wobbly timeline arrow spanning the whole width. Two markers: \"2M\" on the left and \"1M\" on the right. A huge red bracket between them labelled \"NO FIRE\". A tiny stick figure below with its mouth open in an O.",
+      "job_id": "67d8840d-8724-476a-85e8-035beec6f98f",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170231_67d8840d-8724-476a-85e8-035beec6f98f.png"
+    },
+    {
+      "id": "A21",
+      "part": 1,
+      "t": "2:11",
+      "line": "over a million years of human ancestors living, hunting, raising children, and spreading across entire continents with no fire at all.",
+      "scene": "A crude world map made of lumpy green blobs on white. Red dotted arrows spread out from Africa to other continents. Tiny stick-figure families dotted along the arrows.",
+      "job_id": "c6ed870d-e10f-43d4-8661-14f900ca5913",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170231_c6ed870d-e10f-43d4-8661-14f900ca5913.png"
+    },
+    {
+      "id": "A22",
+      "part": 1,
+      "t": "2:17",
+      "line": "And it gets stranger.",
+      "scene": "A single stick figure in the centre scratching its head, with swirly confused scribbles and three red question marks floating around it.",
+      "job_id": "a6a22811-342a-4a5c-8f79-3ae702a72ca2",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170231_a6a22811-342a-4a5c-8f79-3ae702a72ca2.png"
+    },
+    {
+      "id": "A23",
+      "part": 1,
+      "t": "2:22",
+      "line": "Some researchers who've mapped out the archaeological sites argue that",
+      "scene": "A stick-figure researcher pointing a long stick at a map pinned on a board. The map is a crude blob with several red dot pins stuck in it.",
+      "job_id": "a96486c6-88c1-44ee-99da-217cabc8bbe8",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170327_a96486c6-88c1-44ee-99da-217cabc8bbe8.png"
+    },
+    {
+      "id": "A24",
+      "part": 1,
+      "t": "2:28",
+      "line": "even after fire was discovered, it wasn't used everywhere all the time for a very long stretch after that.",
+      "scene": "A crude map blob with many small empty black circles scattered on it, and only two or three of them with tiny orange flames. A red arrow points at the empty circles.",
+      "job_id": "2c90ea55-e9fd-4d41-ab6a-74fe31627cac",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170326_2c90ea55-e9fd-4d41-ab6a-74fe31627cac.png"
+    },
+    {
+      "id": "A25",
+      "part": 1,
+      "t": "2:34",
+      "line": "Habitual daily campfire every night use doesn't show up clearly in the evidence until much later, somewhere in the range of 400,000 years ago,",
+      "scene": "A crude campfire (brown crossed logs, orange flame) in the centre. Next to it a calendar grid with every box ticked with a green checkmark. Handwritten label: \"400,000 YRS AGO\".",
+      "job_id": "f59df5ea-8e2d-4fe1-8fa0-84a4bdfe3091",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170326_f59df5ea-8e2d-4fe1-8fa0-84a4bdfe3091.png"
+    },
+    {
+      "id": "A26",
+      "part": 1,
+      "t": "2:40",
+      "line": "at sites in Europe and the Middle East like Qesem Cave, where you start finding repeated hearths,",
+      "scene": "A crude wide grey cave interior with several small campfire rings (circles of grey stones with orange flames) scattered on the floor. A few red arrows pointing at the fire rings.",
+      "job_id": "0f588f5b-84fd-4502-bd5e-6a1121abb772",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170326_0f588f5b-84fd-4502-bd5e-6a1121abb772.png"
+    },
+    {
+      "id": "A27",
+      "part": 1,
+      "t": "2:46",
+      "line": "ash layers stacked on top of each other year after year.",
+      "scene": "A crude cross-section of the ground like a layer cake: alternating stripes of brown dirt and grey ash stacked up. A stick figure with a magnifying glass looking at it. Red arrow pointing up with text \"YEAR AFTER YEAR\".",
+      "job_id": "a845b323-393a-422f-8b69-727c21441160",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170326_a845b323-393a-422f-8b69-727c21441160.png"
+    },
+    {
+      "id": "A28",
+      "part": 1,
+      "t": "2:52",
+      "line": "So there's a gap, a massive one, millions of years where fire either didn't exist for humans or existed but wasn't the centre of daily life the way we assume.",
+      "scene": "A timeline drawn as a thick black line that breaks in the middle into a huge empty gap. A small stick figure on the edge of the gap peering down into it. Red handwritten label over the gap: \"GAP\".",
+      "job_id": "6d9cebdf-32cf-4550-8db9-58c8b177a291",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170457_6d9cebdf-32cf-4550-8db9-58c8b177a291.png"
+    },
+    {
+      "id": "A29",
+      "part": 1,
+      "t": "2:58",
+      "line": "And the humans in that gap weren't dying out. They were spreading, adapting,",
+      "scene": "A line of stick figures walking to the right, one after another, following a big red arrow. The front one gives a thumbs up.",
+      "job_id": "75665b12-3595-4600-a615-1c618928fd3c",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170326_75665b12-3595-4600-a615-1c618928fd3c.png"
+    },
+    {
+      "id": "A30",
+      "part": 1,
+      "t": "3:04",
+      "line": "surviving ice ages without it. So what were they actually doing instead?",
+      "scene": "Stick figures standing in snow among crude light blue ice blocks, blue snowflakes falling. A big red question mark above them.",
+      "job_id": "abc71539-7aa3-45fe-8259-22978d0b321f",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170326_abc71539-7aa3-45fe-8259-22978d0b321f.png"
+    },
+    {
+      "id": "A31",
+      "part": 1,
+      "t": "3:11",
+      "line": "Let's walk through what a day and a night actually looked like.",
+      "scene": "The picture split into two halves by a wobbly vertical line. Left half white with a big yellow sun. Right half filled black with a yellow crescent moon. A stick figure walking from the day side toward the night side.",
+      "job_id": "7864d35b-b362-4a10-893c-cc38c946930e",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170326_7864d35b-b362-4a10-893c-cc38c946930e.png"
+    },
+    {
+      "id": "A32",
+      "part": 1,
+      "t": "3:18",
+      "line": "Daytime is manageable. The sun is up. Predators are more cautious. Visibility is good.",
+      "scene": "A big yellow sun at the top. Stick figures standing in a strip of green grass. Far away, a crude orange lion doodle peeks from behind a green bush looking nervous with sweat drops.",
+      "job_id": "90fc14d9-41bb-4ab9-9d53-bb906f8b26c5",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170411_90fc14d9-41bb-4ab9-9d53-bb906f8b26c5.png"
+    },
+    {
+      "id": "A33",
+      "part": 1,
+      "t": "3:24",
+      "line": "Groups forage together, covering territory, watching each other's backs. Safety in numbers wasn't a saying. It was the entire survival strategy.",
+      "scene": "A group of four stick figures picking red berries from a green bush. One stick figure faces the other way, looking out, with a small red arrow from its eyes.",
+      "job_id": "fe479cc2-70c5-4042-80b0-f684d3dedc1f",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170458_fe479cc2-70c5-4042-80b0-f684d3dedc1f.png"
+    },
+    {
+      "id": "A34",
+      "part": 1,
+      "t": "3:30",
+      "line": "A lone body is prey. A group of 20 watching in every direction is a problem no predator wants to deal with.",
+      "scene": "Left side: one lone stick figure with a crude orange lion licking its lips behind it. Right side: a circle of many stick figures facing outward with red arrows pointing in every direction, and a lion walking away with a sad face.",
+      "job_id": "b44303ca-8049-4fe6-af9c-7c847a559832",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170411_b44303ca-8049-4fe6-af9c-7c847a559832.png"
+    },
+    {
+      "id": "A35",
+      "part": 1,
+      "t": "3:36",
+      "line": "Nighttime is the real test.",
+      "scene": "A big black-filled wobbly rectangle in the centre with a yellow crescent moon. Under it, big red handwritten text: \"THE REAL TEST\".",
+      "job_id": "817421b7-167d-4244-ac9b-58a6daef1304",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170411_817421b7-167d-4244-ac9b-58a6daef1304.png"
+    },
+    {
+      "id": "A36",
+      "part": 1,
+      "t": "3:41",
+      "line": "And this is where it gets interesting because the evidence suggests our ancestors weren't hiding from the dark. They were managing it.",
+      "scene": "A calm stick figure standing in front of a black night blob, holding a brown clipboard with a checklist of three ticked boxes. The figure is not hiding.",
+      "job_id": "7f383009-2453-4f83-a840-46ef3df58814",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170410_7f383009-2453-4f83-a840-46ef3df58814.png"
+    },
+    {
+      "id": "A37",
+      "part": 1,
+      "t": "3:47",
+      "line": "Sleep, for one, probably didn't look like yours.",
+      "scene": "Left: a modern bed with a blue blanket and a stick figure sleeping with \"Zzz\". Right: a stick figure sleeping on brown bare ground. A red \"not equal\" sign between them.",
+      "job_id": "2218b2b8-241e-4869-9df0-395a1267676e",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170411_2218b2b8-241e-4869-9df0-395a1267676e.png"
+    },
+    {
+      "id": "A38",
+      "part": 1,
+      "t": "3:53",
+      "line": "Some researchers studying modern hunter-gatherer groups who still live without artificial light, like the Hadza in Tanzania, found something strange.",
+      "scene": "A stick-figure researcher with a notebook watching a small group of stick figures next to two crude brown dome grass huts. A light bulb icon crossed out with a red X in the corner.",
+      "job_id": "40b3eacd-0f15-43c5-ae62-04dd02270129",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170411_40b3eacd-0f15-43c5-ae62-04dd02270129.png"
+    },
+    {
+      "id": "A39",
+      "part": 1,
+      "t": "3:59",
+      "line": "It's almost impossible to find a moment, day or night, where every single person in the group is asleep at once.",
+      "scene": "A row of stick figures lying down asleep with \"Zzz\" above them, but one stick figure in the middle is sitting up with open circle eyes. A red arrow points at the awake one.",
+      "job_id": "5769f5b4-4c74-48ec-b672-8be5b772f51d",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170411_5769f5b4-4c74-48ec-b672-8be5b772f51d.png"
+    },
+    {
+      "id": "A40",
+      "part": 1,
+      "t": "4:05",
+      "line": "Someone is always stirring, alert, half-awake. Not because they're insomniacs.",
+      "scene": "Close-up of one stick figure sitting at night (yellow moon above), one eye open as a dot and the other eye closed as a line. Half-awake look.",
+      "job_id": "65931a6d-dcaf-4806-8fa1-69c2e242130d",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170411_65931a6d-dcaf-4806-8fa1-69c2e242130d.png"
+    },
+    {
+      "id": "A41",
+      "part": 1,
+      "t": "4:12",
+      "line": "Because a group that's never fully unconscious altogether is a group that's much harder to ambush.",
+      "scene": "A crude orange lion sneaking toward a group of sleeping stick figures. One stick figure is awake and pointing at the lion. The lion has a red question mark and is turning back.",
+      "job_id": "42fdc1f9-6e52-41e6-9063-9c17213b5ae2",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170411_42fdc1f9-6e52-41e6-9063-9c17213b5ae2.png"
+    },
+    {
+      "id": "A42",
+      "part": 1,
+      "t": "4:17",
+      "line": "Watchfulness wasn't a chore. It was built into the biology of the group itself.",
+      "scene": "A group of stick figures in a circle, each with a small eye symbol above its head, some eyes open and some closed, connected by wobbly lines like a net. One open eye is circled in red.",
+      "job_id": "6141e83d-f152-4acb-b408-8985e69ac32e",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170410_6141e83d-f152-4acb-b408-8985e69ac32e.png"
+    },
+    {
+      "id": "A43",
+      "part": 1,
+      "t": "4:22",
+      "line": "Location mattered enormously, too. Before fire, safety meant elevation and enclosure.",
+      "scene": "A tall crude grey rock pillar with three stick figures sitting on top. At the bottom a crude orange lion looking up with a frustrated face. Red arrow pointing up.",
+      "job_id": "25dcf67a-69f4-4e27-8eb2-12639e62ff3c",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170458_25dcf67a-69f4-4e27-8eb2-12639e62ff3c.png"
+    },
+    {
+      "id": "A44",
+      "part": 1,
+      "t": "4:29",
+      "line": "Cliff ledges, cave mouths that could be partially blocked,",
+      "scene": "Two simple doodles side by side: left, a grey cliff with stick figures sitting on a ledge; right, a grey cave mouth half blocked by a pile of grey rocks with stick figure eyes peeking out.",
+      "job_id": "668e449d-0e27-465a-b784-cc2a4403c55c",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170458_668e449d-0e27-465a-b784-cc2a4403c55c.png"
+    },
+    {
+      "id": "A45",
+      "part": 1,
+      "t": "4:34",
+      "line": "dense thorny thickets that predators couldn't push through quietly.",
+      "scene": "A big green scribbly bush with sharp black thorn spikes. A crude orange lion is stuck in it with red pain lines and a speech bubble \"OUCH\". Stick figures safe on the other side.",
+      "job_id": "d273a41d-ed5e-4f92-b629-4b80402975bd",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170457_d273a41d-ed5e-4f92-b629-4b80402975bd.png"
+    },
+    {
+      "id": "A46",
+      "part": 1,
+      "t": "4:40",
+      "line": "You weren't picking a campsite for the view. You were picking it because there was exactly one way in, and you could all see it.",
+      "scene": "A grey rocky enclosure with a single narrow gap as the entrance. A red arrow pointing at the gap with text \"ONE WAY IN\". Stick figures inside all staring at the gap with dot eyes.",
+      "job_id": "8fe16c5b-9acf-45c9-beaf-1f73ae57d589",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170457_8fe16c5b-9acf-45c9-beaf-1f73ae57d589.png"
+    },
+    {
+      "id": "B00",
+      "part": 2,
+      "t": "0:00",
+      "line": "And the body itself was doing work you don't think about.",
+      "scene": "A stick figure with a big round body outline, inside the chest a few crude grey gears turning with small motion lines.",
+      "job_id": "534dd28b-24b7-4a7a-8100-921991c488ab",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170457_534dd28b-24b7-4a7a-8100-921991c488ab.png"
+    },
+    {
+      "id": "B01",
+      "part": 2,
+      "t": "0:04",
+      "line": "Humans are covered in what's left of a once-much denser coat of body hair,",
+      "scene": "Left: a stick figure covered in thick brown scribbly fur. A red arrow points right to a normal stick figure with only a few tiny hair lines.",
+      "job_id": "e03d8220-5517-42b6-9897-0f1ef6639d68",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170457_e03d8220-5517-42b6-9897-0f1ef6639d68.png"
+    },
+    {
+      "id": "B02",
+      "part": 2,
+      "t": "0:08",
+      "line": "and we still get goosebumps for a reason. It used to fluff that fur up and trap warmth.",
+      "scene": "A big crude arm drawn as a tube with little dots (goosebumps) and hairs standing straight up. A blue snowflake on one side and small red warm squiggles trapped between the hairs.",
+      "job_id": "75088d53-af42-42b7-8d14-2caa38df094b",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170458_75088d53-af42-42b7-8d14-2caa38df094b.png"
+    },
+    {
+      "id": "B03",
+      "part": 2,
+      "t": "0:14",
+      "line": "Losing fire wasn't just an emotional loss, it meant surviving cold nights on physiology",
+      "scene": "A stick figure shivering with wobble lines under a yellow moon, blue snowflakes falling, a crude thermometer next to it showing a low blue level.",
+      "job_id": "f0dacebc-7034-4026-8afc-580742e3404c",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170457_f0dacebc-7034-4026-8afc-580742e3404c.png"
+    },
+    {
+      "id": "B04",
+      "part": 2,
+      "t": "0:19",
+      "line": "and huddling, bodies pressed together in a pile, sharing heat, rotating who was on the outside edge of the group.",
+      "scene": "A tight pile of stick figures huddled together, small red heat squiggles rising from the middle. Big red circular arrows around the pile showing rotation.",
+      "job_id": "e52163dd-9d28-41bf-bc46-b3ccc52c4660",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170541_e52163dd-9d28-41bf-bc46-b3ccc52c4660.png"
+    },
+    {
+      "id": "B05",
+      "part": 2,
+      "t": "0:25",
+      "line": "Food changed the whole shape of a day.",
+      "scene": "A crude plate with a red lump of meat and a green plant, next to a big round clock face.",
+      "job_id": "34872ede-3501-4353-a9a3-f2ddc7c0bc4f",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170457_34872ede-3501-4353-a9a3-f2ddc7c0bc4f.png"
+    },
+    {
+      "id": "B06",
+      "part": 2,
+      "t": "0:31",
+      "line": "No fire means no cooking, which means far more time spent chewing.",
+      "scene": "A stick figure chewing a raw red chunk of meat with a very big jaw. A crude cooking pot with a red X over it beside them.",
+      "job_id": "d4c8b92c-5359-44a1-a9a7-c316ec54022b",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170542_d4c8b92c-5359-44a1-a9a7-c316ec54022b.png"
+    },
+    {
+      "id": "B07",
+      "part": 2,
+      "t": "0:35",
+      "line": "Some anthropologists estimate that raw food, pre-fire diets could have required several hours a day of pure chewing",
+      "scene": "A tired stick figure chewing, with a clock beside it whose hands have wobbly motion lines. Handwritten text above: \"CHEW CHEW CHEW\".",
+      "job_id": "e0eb915b-fb47-45de-81d8-5d1bc407001f",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170541_e0eb915b-fb47-45de-81d8-5d1bc407001f.png"
+    },
+    {
+      "id": "B08",
+      "part": 2,
+      "t": "0:39",
+      "line": "just to extract enough calories, because cooking is what unlocks a huge percentage of the energy in meat and starchy plants.",
+      "scene": "An orange flame holding a big yellow key, unlocking a padlock attached to a brown potato and a red steak. Yellow lightning bolt energy symbols bursting out.",
+      "job_id": "7c5161f8-a3f4-48e1-9877-8a966fd9c6cb",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170541_7c5161f8-a3f4-48e1-9877-8a966fd9c6cb.png"
+    },
+    {
+      "id": "B09",
+      "part": 2,
+      "t": "0:45",
+      "line": "Without it, digestion is your factory, and it runs slow,",
+      "scene": "A crude stomach shape drawn as a grey factory with a little chimney. A conveyor belt with a snail on it moving slowly.",
+      "job_id": "13d952f4-5514-4475-a25e-93284ccbc94c",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170542_13d952f4-5514-4475-a25e-93284ccbc94c.png"
+    },
+    {
+      "id": "B10",
+      "part": 2,
+      "t": "0:50",
+      "line": "and there's a chilling detail that keeps showing up at sites from this period,",
+      "scene": "A stick-figure archaeologist kneeling in a brown dig pit with a small brush, uncovering a white bone. A red exclamation mark above them.",
+      "job_id": "4420106c-db7f-4c0e-aefe-1b53450914fe",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170542_4420106c-db7f-4c0e-aefe-1b53450914fe.png"
+    },
+    {
+      "id": "B11",
+      "part": 2,
+      "t": "0:55",
+      "line": "bite marks, not from other humans, from predators.",
+      "scene": "A big crude white bone in the centre with jagged tooth-mark notches. Red arrows point to the marks. Beside it a crude orange big cat head showing sharp teeth.",
+      "job_id": "14291d30-01bb-41bb-b814-75bd1a46d503",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170542_14291d30-01bb-41bb-b814-75bd1a46d503.png"
+    },
+    {
+      "id": "B12",
+      "part": 2,
+      "t": "1:01",
+      "line": "Carnivore tooth marks on hominin bones, found at multiple sites across Africa,",
+      "scene": "A crude green outline of Africa with several small white bone icons scattered on it, each marked with a red dot.",
+      "job_id": "30ad689a-a893-4dfd-9c9b-e3e0bfeb234a",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170541_30ad689a-a893-4dfd-9c9b-e3e0bfeb234a.png"
+    },
+    {
+      "id": "B13",
+      "part": 2,
+      "t": "1:07",
+      "line": "are direct physical proof that our ancestors weren't at the top of the food chain back then,",
+      "scene": "A crude triangle pyramid split into levels. A crude orange lion sits proudly at the top. A small sad stick figure is on a lower level.",
+      "job_id": "a6e482ae-6bb3-4513-9018-d446118fdaca",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170542_a6e482ae-6bb3-4513-9018-d446118fdaca.png"
+    },
+    {
+      "id": "B14",
+      "part": 2,
+      "t": "1:11",
+      "line": "they were sometimes the meal.",
+      "scene": "A stick figure sitting on a big white dinner plate looking worried, a fork and knife beside the plate. A crude lion wearing a napkin bib looking at it.",
+      "job_id": "de16ffe9-d9a9-4e3f-bf9d-08c106af4a90",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170542_de16ffe9-d9a9-4e3f-bf9d-08c106af4a90.png"
+    },
+    {
+      "id": "B15",
+      "part": 2,
+      "t": "1:16",
+      "line": "Fire, when it finally became a nightly companion, didn't just cook dinner,",
+      "scene": "A crude campfire with orange flames and brown logs. A stick figure next to it holding a stick with a piece of meat roasting over the fire.",
+      "job_id": "a84fcb51-5a8a-4986-a9c1-b5812116d5f8",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170541_a84fcb51-5a8a-4986-a9c1-b5812116d5f8.png"
+    },
+    {
+      "id": "B16",
+      "part": 2,
+      "t": "1:21",
+      "line": "it flipped that entire relationship.",
+      "scene": "A stick figure holding up a burning torch, and a crude orange lion running away with scared circle eyes and motion lines. Two red curved arrows forming a flip symbol above.",
+      "job_id": "f9280d81-f478-4e72-91d6-1125fb502bee",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170542_f9280d81-f478-4e72-91d6-1125fb502bee.png"
+    },
+    {
+      "id": "B17",
+      "part": 2,
+      "t": "1:25",
+      "line": "A flame at the mouth of a cave is the single cheapest, most effective predator deterrent a body without claws or fangs could ever have found.",
+      "scene": "A grey cave mouth with a campfire burning at the entrance and stick figures inside. A lion outside backing away. A small price tag attached to the fire reading \"$0\".",
+      "job_id": "fd2676f7-604d-42d7-8aec-1d8178e64980",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170709_fd2676f7-604d-42d7-8aec-1d8178e64980.png"
+    },
+    {
+      "id": "B18",
+      "part": 2,
+      "t": "1:31",
+      "line": "So think about what that means, for over a million years being human meant living inside constant, unerasable risk.",
+      "scene": "A stick figure standing inside a big wobbly circle, surrounded on all sides by yellow warning triangles with black exclamation marks.",
+      "job_id": "85ed656a-1ccc-4472-8ae7-82aba8823a0e",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170709_85ed656a-1ccc-4472-8ae7-82aba8823a0e.png"
+    },
+    {
+      "id": "B19",
+      "part": 2,
+      "t": "1:37",
+      "line": "Every night was a negotiation with the dark,",
+      "scene": "A stick figure sitting at a small brown table across from a big black scribbly blob with yellow dot eyes. A sheet of paper on the table between them.",
+      "job_id": "c91fecb7-8457-4dae-82ed-6a0f57cb4a63",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170626_c91fecb7-8457-4dae-82ed-6a0f57cb4a63.png"
+    },
+    {
+      "id": "B20",
+      "part": 2,
+      "t": "1:42",
+      "line": "every sound outside the group was a decision, ignore it or wake everyone,",
+      "scene": "A stick figure with wide eyes hearing a sound, a green bush with sound lines and the word \"CRACK\". Two red arrows branch from the figure to two signs: \"IGNORE\" and \"WAKE ALL\".",
+      "job_id": "9cb3b03f-7313-4044-925f-ef188cb23b60",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170627_9cb3b03f-7313-4044-925f-ef188cb23b60.png"
+    },
+    {
+      "id": "B21",
+      "part": 2,
+      "t": "1:48",
+      "line": "and yet, and this is the part that should genuinely unsettle you, those humans weren't failing at life,",
+      "scene": "A stick caveman proudly holding up a paper report card with a big red \"A+\" on it.",
+      "job_id": "84418097-a8d3-4ca9-af5f-6bf525881889",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170626_84418097-a8d3-4ca9-af5f-6bf525881889.png"
+    },
+    {
+      "id": "B22",
+      "part": 2,
+      "t": "1:54",
+      "line": "they were raising children, passing down knowledge,",
+      "scene": "A tall stick figure adult showing a small stick child how to chip a grey stone tool. A small yellow light bulb above the child.",
+      "job_id": "bbdb8255-03ea-4f7b-a123-aace6b90889d",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170626_bbdb8255-03ea-4f7b-a123-aace6b90889d.png"
+    },
+    {
+      "id": "B23",
+      "part": 2,
+      "t": "1:59",
+      "line": "migrating out of Africa and across entire continents, through ice, through unfamiliar predators, through nights with absolutely nothing burning to protect them.",
+      "scene": "A crude world map with lumpy green continents. A red dotted path leads out of Africa across to Europe and Asia, passing blue snowflakes and a small lion doodle along the way.",
+      "job_id": "05ade0b6-d21d-448a-83f0-69fc6521e492",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170627_05ade0b6-d21d-448a-83f0-69fc6521e492.png"
+    },
+    {
+      "id": "B24",
+      "part": 2,
+      "t": "2:04",
+      "line": "The species didn't just cling on, it spread across the entire planet before it ever had a permanent flame.",
+      "scene": "A round blue and green globe covered with tiny stick figures all over it. Next to the globe, a small orange flame with a red X.",
+      "job_id": "6aa2e80f-b894-4e95-9770-2926e2d342e3",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170627_6aa2e80f-b894-4e95-9770-2926e2d342e3.png"
+    },
+    {
+      "id": "B25",
+      "part": 2,
+      "t": "2:10",
+      "line": "Compare that to you, you live behind locked doors, in rooms with switches that banish the dark instantly,",
+      "scene": "A crude modern house outline with a door and a big padlock on it. Inside, a stick figure flipping a light switch, a yellow light bulb lit above.",
+      "job_id": "c51fb804-6f0c-4e57-b4da-a21b65c9d763",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170627_c51fb804-6f0c-4e57-b4da-a21b65c9d763.png"
+    },
+    {
+      "id": "B26",
+      "part": 2,
+      "t": "2:16",
+      "line": "on a planet where almost nothing is actively hunting you,",
+      "scene": "A stick figure relaxing on a crude orange couch. A tiny grey house cat sits on the floor, harmless. Nothing scary around.",
+      "job_id": "f1629554-b82a-4caf-9935-9ae4efb1fa32",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170626_f1629554-b82a-4caf-9935-9ae4efb1fa32.png"
+    },
+    {
+      "id": "B27",
+      "part": 2,
+      "t": "2:22",
+      "line": "and still, you sleep worse,",
+      "scene": "A stick figure lying in a modern bed at night with wide open circle eyes, a glowing phone in hand, and a crude digital clock on the nightstand showing \"3:00\".",
+      "job_id": "e2d8cd20-9361-47c1-8601-1c11ff56a66a",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170626_e2d8cd20-9361-47c1-8601-1c11ff56a66a.png"
+    },
+    {
+      "id": "B28",
+      "part": 2,
+      "t": "2:27",
+      "line": "you're wired with more background anxiety than a body that used to take turns staying half awake to listen for teeth in the dark.",
+      "scene": "Left: a modern stick figure with a tangled black scribble cloud above its head. Right: a calm cave stick figure sitting half-awake with one eye open. A red \"greater than\" sign pointing to show the modern one is more stressed.",
+      "job_id": "2b9ca6a2-5033-4b8c-8f60-43959f3cc5ab",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170626_2b9ca6a2-5033-4b8c-8f60-43959f3cc5ab.png"
+    },
+    {
+      "id": "B29",
+      "part": 2,
+      "t": "2:33",
+      "line": "Fire didn't just give humans light and cooked food,",
+      "scene": "A crude campfire in the centre, with a yellow light bulb icon on one side and a brown cooked drumstick icon on the other, connected with small red arrows.",
+      "job_id": "633a54e9-d790-4732-913a-bac8c6eaff45",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170709_633a54e9-d790-4732-913a-bac8c6eaff45.png"
+    },
+    {
+      "id": "B30",
+      "part": 2,
+      "t": "2:37",
+      "line": "it gave the nervous system something it had never had in its entire existence, permission to fully relax.",
+      "scene": "A stick figure lying back relaxed next to a small campfire, a smile line mouth, holding a paper slip that says \"OK TO RELAX\".",
+      "job_id": "20e5e403-9a1e-456a-b822-d2b8c0a8614e",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170709_20e5e403-9a1e-456a-b822-d2b8c0a8614e.png"
+    },
+    {
+      "id": "B31",
+      "part": 2,
+      "t": "2:43",
+      "line": "For the first time, a human body could power down completely",
+      "scene": "A stick figure fast asleep by a campfire with \"Zzz\", and a big crude power button symbol above it switched off.",
+      "job_id": "c4a33340-8caa-41e8-9a19-5c900a014861",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170709_c4a33340-8caa-41e8-9a19-5c900a014861.png"
+    },
+    {
+      "id": "B32",
+      "part": 2,
+      "t": "2:49",
+      "line": "because something was standing guard that never got tired and never fell asleep, the flame itself,",
+      "scene": "A campfire flame drawn as a little guard with two dot eyes and a tiny spear, standing tall. Behind it stick figures sleeping with \"Zzz\".",
+      "job_id": "e11c65c6-9841-4f1e-9a92-9d34ac3f193c",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170709_e11c65c6-9841-4f1e-9a92-9d34ac3f193c.png"
+    },
+    {
+      "id": "B33",
+      "part": 2,
+      "t": "2:54",
+      "line": "and that's the real discovery buried in these sites. It's not that early humans were pitiful without fire,",
+      "scene": "A crude drawing of a sad crying caveman with a big red X across it. Handwritten label: \"PITIFUL?\".",
+      "job_id": "536cac06-ee6d-43f0-a2e4-69b4e4f839e5",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170710_536cac06-ee6d-43f0-a2e4-69b4e4f839e5.png"
+    },
+    {
+      "id": "B34",
+      "part": 2,
+      "t": "2:59",
+      "line": "it's that fire was the first technology that ever let the human nervous system exhale.",
+      "scene": "A stick figure next to a campfire, breathing out a big puffy white cloud with the word \"PHEW\". A small handwritten label on the fire: \"TECH #1\".",
+      "job_id": "98ed3fac-d5bf-4700-87db-023e9cb58fb7",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170709_98ed3fac-d5bf-4700-87db-023e9cb58fb7.png"
+    },
+    {
+      "id": "B35",
+      "part": 2,
+      "t": "3:06",
+      "line": "Before it, safety was a full-time, every single night job, split across an entire group, generation after generation for over a million years.",
+      "scene": "A crude schedule grid on a board titled \"NIGHT SHIFT\" with little stick figure heads in the boxes. Next to it a stick figure standing guard under a yellow moon.",
+      "job_id": "1ffb4f65-4cdb-4bf8-a04a-e157565530d3",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170709_1ffb4f65-4cdb-4bf8-a04a-e157565530d3.png"
+    },
+    {
+      "id": "B36",
+      "part": 2,
+      "t": "3:12",
+      "line": "After it, for the first time in the history of our species, a person could close both eyes at the same time and trust that they'd open again.",
+      "scene": "Close-up of a stick figure lying down next to a campfire, both eyes closed as two peaceful curved lines, a small smile.",
+      "job_id": "2ed98a48-0220-4d37-b486-b4485aed9085",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170709_2ed98a48-0220-4d37-b486-b4485aed9085.png"
+    },
+    {
+      "id": "B37",
+      "part": 2,
+      "t": "3:18",
+      "line": "You have that now, multiplied a thousand times over, locked doors, heating, light at the flip of a switch,",
+      "scene": "A row of three crude icons: a door with a padlock, a grey radiator with red heat squiggles, and a light switch with a yellow bulb. Big red handwritten text: \"x1000\".",
+      "job_id": "e07be28b-4c99-4ea8-b8ae-7bc8807ade3e",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170709_e07be28b-4c99-4ea8-b8ae-7bc8807ade3e.png"
+    },
+    {
+      "id": "B38",
+      "part": 2,
+      "t": "3:25",
+      "line": "a body that no one is hunting, and most people still can't fully relax at night.",
+      "scene": "A stick figure in a cozy modern bed under a blue blanket, but eyes wide open and a messy black scribble above its head. A red question mark beside the bed.",
+      "job_id": "7ae0223f-a1ee-45fa-b309-c1f88b02a049",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170710_7ae0223f-a1ee-45fa-b309-c1f88b02a049.png"
+    },
+    {
+      "id": "B39",
+      "part": 2,
+      "t": "3:31",
+      "line": "Maybe the fire our ancestors were missing wasn't the one that burns wood,",
+      "scene": "A crude pile of brown logs with an orange flame, crossed out with a red X, and a red question mark beside it.",
+      "job_id": "23a5b156-a904-4955-9731-c71ecbf83c6e",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170735_23a5b156-a904-4955-9731-c71ecbf83c6e.png"
+    },
+    {
+      "id": "B40",
+      "part": 2,
+      "t": "3:36",
+      "line": "maybe it's the one that's supposed to burn behind your ribs,",
+      "scene": "A big stick figure with a few simple rib lines drawn on its chest and a small orange flame burning inside the chest. A red arrow points to the flame.",
+      "job_id": "563fcc29-b864-4f8a-b09d-1b4c95c7bb83",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170735_563fcc29-b864-4f8a-b09d-1b4c95c7bb83.png"
+    },
+    {
+      "id": "B41",
+      "part": 2,
+      "t": "3:41",
+      "line": "and somewhere between that cave mouth and your bedroom, some of us let it go out.",
+      "scene": "Left: a grey cave. Right: a modern bed. A dotted path connects them. A stick figure on the path near the bed has a tiny wisp of grey smoke in its chest where the flame went out.",
+      "job_id": "af250d0d-b229-4214-b3f3-9f034dd01991",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170735_af250d0d-b229-4214-b3f3-9f034dd01991.png"
+    },
+    {
+      "id": "B42",
+      "part": 2,
+      "t": "3:48",
+      "line": "If this messed with how you think about being modern, there's another one of these buried in the ground too.",
+      "scene": "A stick figure digging in brown ground with a shovel, uncovering another white bone. A red question mark above the hole.",
+      "job_id": "eb7ef3cd-2ab0-4773-ad46-38aae051244d",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170735_eb7ef3cd-2ab0-4773-ad46-38aae051244d.png"
+    },
+    {
+      "id": "B43",
+      "part": 2,
+      "t": "3:51",
+      "line": "Subscribe, because the next skeleton tells an even stranger story.",
+      "scene": "A big crude red rounded rectangle button with white handwritten text \"SUBSCRIBE\". A simple stick skeleton next to it waving.",
+      "job_id": "ab8c9999-0b19-4832-80b6-ef550d233774",
+      "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260927_170736_ab8c9999-0b19-4832-80b6-ef550d233774.png"
+    }
+  ]
+}
