@@ -2,6 +2,8 @@
 
 One medium-skill MS Paint frame per script timestamp (123 total), 16:9, Higgsfield `gpt_image_2_5` (medium), project **Before Fire - MS Paint Storyboard**. The script restarts at 0:00 partway through, so it's split into Part 1 and Part 2. Style prompt and scene text are in `scenes.py`.
 
+**Full slideshow video (9:43, 1080p, frames timed to the script):** https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/d0c96bdb-26e9-43e9-ba7e-c2cfb6a43ef5.mp4
+
 ## Part 1
 
 - **(0:00)** A stick figure sitting on the ground clutching its leg, a red zigzag break mark on the shin, sweat drops, speech bubble "OUCH!". A crude white ambulance box with a red cross driving in from the right. · [image](https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260928_183912_f1b62928-6767-41b2-b770-9239b94bb842.png)
