@@ -4,6 +4,11 @@ One medium-skill MS Paint frame per script timestamp (128 total), 16:9, Higgsfie
 
 **Full slideshow video (11:31, 1080p, frames timed to the script):** https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/c95e314c-edbd-40ee-ae5d-a7f941057e5a.mp4
 
+**Thumbnail options (1280x720 JPG, ready to upload to YouTube):**
+- A, "WORST IDEA EVER?": caveman tossing meat to a giant wolf in the dark · [jpg](https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/fda101cf-2bde-4f78-8d55-9b57975a3bf6.jpg)
+- B, "HOW?!": snarling wolf 30,000 years ago vs goofy dog on a couch now · [jpg](https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/e4c4bd06-43ff-4761-b5e2-164e2d857f7c.jpg)
+- C, "TERRIBLE IDEA": caveman and wolf at a dinner table · [jpg](https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/001551ca-7dd3-4257-8019-9571ddb4a983.jpg)
+
 ## Part 1
 
 - **(0:00)** Night Ice Age camp: dark blue sky with little white stars, white snowy ground, a crude orange campfire, a brown hide tent. a stick-figure Ice Age person with scruffy brown hair and a simple brown fur tunic sits by the campfire, hands out to warm them, snowflakes falling. Handwritten label "30,000 YRS AGO". · [image](https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260929_165619_4885cad1-20e7-4d41-b7b5-e0e389b5faf7.png)
