@@ -2,6 +2,8 @@
 
 One medium-skill MS Paint frame per script timestamp (128 total), 16:9, Higgsfield `gpt_image_2_5` (medium), project **First Dog - MS Paint Storyboard**. The recorded script restarts at 0:00 twice, so it's split into Part 1 (0:00-5:03), Part 2 (0:00-5:11) and Part 3 (0:00-0:57). The shared style prompt and scene list are in `scenes.py`; prompts were lightly reworded per frame when generating.
 
+**Full slideshow video (11:31, 1080p, frames timed to the script):** https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/c95e314c-edbd-40ee-ae5d-a7f941057e5a.mp4
+
 ## Part 1
 
 - **(0:00)** Night Ice Age camp: dark blue sky with little white stars, white snowy ground, a crude orange campfire, a brown hide tent. a stick-figure Ice Age person with scruffy brown hair and a simple brown fur tunic sits by the campfire, hands out to warm them, snowflakes falling. Handwritten label "30,000 YRS AGO". · [image](https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260929_165619_4885cad1-20e7-4d41-b7b5-e0e389b5faf7.png)
