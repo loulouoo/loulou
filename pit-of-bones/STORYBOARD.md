@@ -2,6 +2,10 @@
 
 One medium-skill MS Paint frame per 5-second timestamp (122 total), 16:9, Higgsfield `gpt_image_2_5` (medium). Filled flat backgrounds, recurring trench-coat detective. Style prompt and scene text are in `scenes.py`.
 
+**Full slideshow video (10:10, 1080p, 5 s per frame):** https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/8ca348e6-90cc-415f-b275-78ca8b356443.mp4
+
+**Thumbnails:** [430,000 YEAR OLD MURDER](https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260930_172008_20b13fbd-655a-4cec-bd8d-5f71f5d00e58.png) · [WHO KILLED HIM?](https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260930_172008_2a6bbefe-7cf8-4538-90d5-76d6368f1522.png) · [THE PIT OF BONES](https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260930_172008_f6367576-e50a-4adc-9a89-c17adb60302f.png)
+
 - **(0:00)** The DETECTIVE is a cartoon stick-style man in a brown trench coat and brown hat, holding a magnifying glass. He arrives at a dark cave entrance in a brown hillside, yellow police tape across it, looking surprised. · [image](https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260930_165127_c4ac70b1-fd38-461c-b65b-5aa6753739f0.png)
 - **(0:05)** The DETECTIVE is a cartoon stick-style man in a brown trench coat and brown hat, holding a magnifying glass. He shrugs inside a grey cave over an empty dirt floor. Three small icons crossed out in red: a fingerprint, an eye, a person silhouette. · [image](https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260930_165127_fdca8e2c-bdbd-4316-9f3c-0270d3a027ae.png)
 - **(0:10)** The DETECTIVE is a cartoon stick-style man in a brown trench coat and brown hat, holding a magnifying glass. He looks shocked at a wooden table holding a white skull broken into many pieces. Handwritten label "52 PIECES". · [image](https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20260930_165127_c666d12f-ecc9-4194-8eb0-35183592668b.png)
