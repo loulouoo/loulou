@@ -2,7 +2,9 @@
 
 One medium MS Paint style frame per timestamp (133 frames: part 1 = 96, part 2 = 37), generated with Higgsfield (gpt_image_2_5, 16:9). Scene prompts are in `scenes.py`.
 
-**Slideshow video:** https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/d069506e-b13b-470c-8482-b63f03e39673.mp4 (8:29, 1920x1080, 30 fps, frames timed to the script timestamps)
+**Slideshow video:** https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/855d4cde-5728-49ed-8e0a-9b0c1447318a.mp4 (8:29, 1920x1080, 30 fps, frames timed to the script timestamps)
+
+**Backup download (zip):** https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/67081d1e-d4c6-42b1-aedf-762d8e20225c.zip
 
 **Thumbnail:** https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261005_170856_cd5b0743-de31-4059-8501-4ca69029c65a.png
 
