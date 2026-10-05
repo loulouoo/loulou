@@ -32,4 +32,4 @@ So what were they fighting over? And what does the oldest war ever found tell us
 
 💬 Was war always part of being human, or did we invent it? Tell me in the comments.
 
-#AncientHistory #JebelSahaba #FirstWar #Prehistory #Archaeology #AncientEgypt #Nile #Sudan #HumanHistory #HistoryMystery #StoneAge #HunterGatherers #History #Shorts
+#AncientHistory #JebelSahaba #FirstWar #Prehistory #Archaeology #AncientEgypt #Nile #Sudan #HumanHistory #HistoryMystery #StoneAge #HunterGatherers #History
