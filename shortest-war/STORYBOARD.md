@@ -6,6 +6,8 @@ One medium MS Paint style frame per timestamp (188 frames: part 1 = 103, part 2 
 
 **Backup download (zip):** https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/80f763d0-27dd-46f5-8301-1a0a5637dd4b.zip
 
+**Thumbnails:** https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261011_195518_197a8b52-6e66-43e6-a861-f6e18f23719c.png ("38 MINUTE WAR") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261011_195518_6501ca16-9f5f-4c7c-86b2-f20020e513f8.png ("THEY LOST... THEN GOT THE BILL")
+
 In the video, part 2 starts at 5:13 and the end card at 10:33.
 
 ## Part 1
