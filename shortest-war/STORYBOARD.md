@@ -8,6 +8,8 @@ One medium MS Paint style frame per timestamp (188 frames: part 1 = 103, part 2 
 
 **Thumbnails:** https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261011_195518_197a8b52-6e66-43e6-a861-f6e18f23719c.png ("38 MINUTE WAR") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261011_195518_6501ca16-9f5f-4c7c-86b2-f20020e513f8.png ("THEY LOST... THEN GOT THE BILL")
 
+**More thumbnails:** https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261011_195832_4a8e6e37-d53a-4793-8656-8fd1c311ea03.png ("WAR OVER BY 9:40") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261011_195833_ca5b8dcd-c9f5-455d-acd1-3cfac41aea13.png ("1 YACHT VS 5 WARSHIPS") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261011_195833_d2b4be5c-37b4-4a84-83d6-f06bf028b93f.png ("BIGGEST BLUFF EVER?") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261011_195833_24916d4d-f17c-46ef-99b2-52c54d4133bd.png ("FIRST WAR VS SHORTEST")
+
 In the video, part 2 starts at 5:13 and the end card at 10:33.
 
 ## Part 1
