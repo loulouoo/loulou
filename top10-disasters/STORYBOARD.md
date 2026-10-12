@@ -9,6 +9,8 @@ One medium MS Paint style frame per timestamp (128 frames: part 1 = 87, part 2 =
 
 Each frame stays on screen until the next timestamp; the last frame of each part holds for 5 seconds.
 
+**Thumbnails:** https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261012_192348_d818f85c-9801-4b08-a77a-335fb123aab4.png ("WORST EVER") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261012_192348_8ecd920f-0b2b-4273-b762-41fa6c5159d9.png ("TOP 10 DEADLIEST") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261012_192349_ac451f01-603c-4731-b9e8-0e0e74e21e15.png ("15 SECONDS") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261012_192347_3bd745dd-8914-48e6-afc3-4f99d5ea1f6e.png ("NO SUMMER") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261012_192347_75c8ff56-8115-4e66-ac09-55f375e70185.png ("SHE SAVED 100")
+
 ## Part 1
 
 ### 0:00 (frame 1)
