@@ -1,0 +1,176 @@
+import json
+
+STYLE = (
+    "Medium-skill MS Paint sketch: a crude hand-made doodle by someone with some drawing skill - amateur, funny, "
+    "deliberately clumsy. Characters are simple cartoon stick-style people with round heads and simple bodies, eyes as "
+    "plain dots or circles, and clear simple facial expressions. Thick uneven hand-drawn black outlines. Flat colour "
+    "fills only (green, brown, grey, red, yellow, orange, blue). The whole frame is filled with NO empty white space: a "
+    "simple flat-coloured background built from primitive shapes (sky, hills, mountains, jungle, sea, tents, rooms, "
+    "streets) with a few simple background details, but no complex textures. Red arrows or red question marks for "
+    "emphasis. NO shading, NO gradients, NO 3D, NO cinematic lighting. NOT a polished cartoon, NOT Disney or anime "
+    "look, not vector art, not professional, no realistic people. Not gory, no blood, no injuries shown in detail, no "
+    "dead bodies, no flags or symbols of any regime. Uncluttered, subject centred with breathing room, nothing cropped. "
+    "Wide horizontal 16:9 YouTube video still. Any text is short handwritten scrawl, correctly spelled and legible."
+)
+
+WOJ = "Wojtek the bear (a big friendly brown cartoon bear with round ears and dot eyes)"
+CUB = "a tiny brown bear cub with round ears and dot eyes"
+POL = "Polish soldiers (stick men in plain khaki uniforms and caps)"
+JACK = "Mad Jack (a thin stick-man British officer with a big bushy moustache, khaki uniform, a longbow on his back and a sword)"
+JUAN = "Juan (a stick man with neat black hair, a thin moustache and a brown suit)"
+GER = "German officers (stick men in plain grey uniforms and grey peaked caps, no symbols)"
+BRI = "British officers (stick men in khaki uniforms and peaked caps)"
+ONO = "Onoda (a stick-man Japanese soldier in a faded tan uniform and cap with a cloth neck flap)"
+YAM = "Yamaguchi (a stick man with short black hair, a white shirt and grey trousers)"
+
+P1 = [
+    f"{WOJ} standing proudly in a soldier's cap saluting, in front of an army tent and a green hill, a sign \"ARMY\".",
+    f"{JACK} charging with his sword raised, and next to him {JUAN} at a desk surrounded by cardboard cut-out stick men, a red question mark.",
+    f"{ONO} hiding behind a palm tree in a green jungle, a calendar nailed to a tree reading \"29 YEARS\".",
+    f"{YAM} standing between two small distant mushroom clouds on the horizon, one on each side, looking shocked with circle eyes, a city skyline far away.",
+    "A big wooden sign reading \"ALL REAL\" with a green checkmark, five small icons lined up under it: a bear, a sword, a spy hat, a palm tree, a man in a white shirt.",
+    "A simple world map on a classroom wall with a big handwritten \"WW2\" and little red arrows across it, a calendar \"1939-1945\".",
+    "A huge globe with grey smoke clouds and tiny tanks and planes around it, a sign \"BIGGEST WAR\".",
+    "A big old book open on a table, with tiny funny pictures popping out of it: a bear, a sword, a jungle, question marks, a stick man laughing.",
+    "A countdown board with numbers 5, 4, 3, 2, 1 on a wall, a red arrow pointing at the number 1.",
+    "A stick man looking at a giant number \"1\" that has one sad face and one happy face drawn on it, handwritten \"UNLUCKY? LUCKY?\".",
+    "A big red start button being pressed by a cartoon finger, a sign \"LET'S START\".",
+    f"A giant number \"5\" next to {WOJ} wearing a little soldier cap, on a green hill.",
+    f"{POL} walking in a line along a dusty road between brown mountains, a sign \"IRAN 1942\".",
+    f"{POL} looking tired and sad with droopy faces, sitting on rocks, a small grey rain cloud above them.",
+    f"{POL} walking out of an open wooden gate in a barbed wire fence, smiling with relief, the sun rising.",
+    f"{POL} with rifles marching to the right, a red arrow pointing at a road sign \"FIGHT GERMANY\".",
+    f"{POL} on a winding mountain road meeting a small boy with a big brown sack over his shoulder.",
+    f"The boy opening the sack and {CUB} peeking out, the soldiers leaning in with big circle eyes.",
+    f"A soldier handing the boy some coins and a chocolate bar, the boy holding {CUB}.",
+    f"A soldier handing the boy a tin can labelled \"MEAT\", the boy smiling, {CUB} now in a soldier's arms.",
+    f"{POL} gathered around {CUB} in a camp, a tent behind, a name sign \"WOJTEK\", everyone smiling.",
+    f"{CUB} lying on its back drinking milk from a big glass bottle held by a soldier, a tent in the background.",
+    f"{WOJ}, now bigger, holding a beer bottle and grinning, soldiers laughing around a campfire.",
+    f"{WOJ} munching a cigarette with a funny face, a soldier holding out a cigarette packet, both surprised.",
+    f"{WOJ} wrestling playfully with a laughing soldier on the ground, other soldiers cheering, an army truck and tent behind.",
+    f"A night scene with a dark blue sky and stars, a small wooden supply hut, a sneaky stick-man thief tiptoeing inside with a sack.",
+    f"The thief screaming with big circle eyes and hair standing up as {WOJ} roars at him inside the hut.",
+    f"{POL} looking worried, one scratching his head, a big red question mark above them.",
+    "A big grey ship in a harbour with a gangplank, a sign \"TO ITALY 1944\", soldiers queueing to get on.",
+    f"A sign at the gangplank reading \"NO ANIMALS\" with a big red X, {WOJ} looking sad next to it.",
+    f"{POL} huddled together, one with a light bulb above his head, smiling with an idea.",
+    f"{WOJ} wearing a soldier cap standing in line with soldiers, everyone saluting.",
+    f"An army desk with a clerk writing on a form, {WOJ} standing in front, the form says \"NAME: WOJTEK\", a big stamp.",
+    f"{WOJ} next to a pet collar crossed out with a red X, looking proud.",
+    f"{WOJ} in a soldier cap saluting, with a big sign \"PRIVATE WOJTEK\".",
+    "A rocky grey mountain with a monastery on top, a sign \"MONTE CASSINO\", grey smoke puffs and small tanks below.",
+    f"{POL} crouched behind rocks with tired determined faces, smoke in the sky.",
+    f"{POL} carrying heavy wooden crates labelled \"SHELLS\", sweating, {WOJ} watching them with curious dot eyes.",
+    f"{WOJ} carrying a big wooden crate labelled \"SHELLS\" on his shoulder, soldiers staring amazed with open mouths.",
+    "A big round army badge drawing showing a brown bear carrying an artillery shell, a red arrow pointing at it.",
+    "Soldiers proudly wearing the round bear badge on their sleeves, giving thumbs up.",
+    f"{WOJ} on a small boat with soldiers, a sign \"SCOTLAND\" on green hills ahead.",
+    f"{WOJ} inside a zoo enclosure with a fence and trees, a sign \"EDINBURGH ZOO\".",
+    f"Old stick-man veterans with grey hair and walking sticks waving at {WOJ} behind the zoo fence, a speech bubble \"WOJTEK!\".",
+    f"An old veteran tossing a cigarette over the zoo fence to {WOJ}, who catches it happily.",
+    f"{WOJ} hugging an old soldier through the fence, a small red heart above them, handwritten \"COMRADE\".",
+    f"A giant number \"4\" next to {JACK} holding his sword up, a man with a rifle staring at him.",
+    "A line of soldiers each holding a rifle, standing on a muddy field.",
+    f"{JACK} standing proudly with a longbow, bagpipes under his arm and a sword at his side, red arrows pointing at each item.",
+    f"{JACK} with a wild grin, his friends behind him pointing, a speech bubble \"MAD JACK!\".",
+    f"{JACK} pointing in disapproval at another officer who has no sword, shaking his head.",
+    f"{JACK} admiring his sword in a mirror like a tie, handwritten \"PROPERLY DRESSED\".",
+    f"{JACK} shooting an arrow at a round target with rings, the arrow in the bullseye, a green field.",
+    f"An old film camera on a stand filming {JACK} shooting an arrow, a clapperboard.",
+    "A simple map of France with big red arrows sweeping across it, a sign \"1940\".",
+    f"{JACK} and soldiers hiding behind a stone wall, peeking over at a patrol of stick soldiers in grey helmets walking down a road.",
+    f"{JACK} pulling back his longbow behind the wall, a red arrow pointing at the arrow, soldiers ready.",
+    "An arrow flying through the air over a road, a big red question mark and handwritten \"LAST ARROW\".",
+    f"{JACK} dusting off his hands with a smug smile, handwritten \"NOT FINISHED\".",
+    f"A night scene in hills with a dark blue sky and moon, {JACK} and one other soldier creeping, a sign \"ITALY 1943\".",
+    f"{JACK} creeping up behind a sandbag position at night holding his sword, soldiers in grey helmets unaware.",
+    "A long line of soldiers in grey uniforms with their hands up, a counter sign \"42\".",
+    f"{JACK} walking behind the long line of prisoners with his sword over his shoulder, whistling.",
+    f"{JACK} behind the bars of a prison camp with a barbed wire fence and a watchtower, frowning.",
+    f"{JACK} climbing over a barbed wire fence at night with a sneaky face.",
+    f"{JACK} caught in a spotlight with guards pointing at him, surprised face.",
+    f"{JACK} running away again through a forest with a grin, a red arrow pointing the way.",
+    f"A big banner \"WAR OVER\" with people cheering and confetti, {JACK} standing in the middle.",
+    f"{JACK} with a grumpy frown and arms crossed under the \"WAR OVER\" banner while everyone else cheers.",
+    f"{JACK} grumpy with a speech bubble \"10 MORE YEARS!\", pointing at a calendar.",
+    f"A giant number \"3\" next to {JUAN} in a spy hat holding a magnifying glass, a red question mark.",
+    f"{JUAN} standing on a farm with chickens around his feet, a red barn, a sign \"SPAIN\".",
+    f"{JUAN} with an angry face and arms crossed, a speech bubble with a big red X in it.",
+    f"{JUAN} thinking, a thought bubble showing a simple map of Britain with a red heart.",
+    f"{JUAN} at the door of a stone building with a sign \"BRITISH EMBASSY\", raising his hand eagerly.",
+    f"A British official behind a desk with a stamp reading \"NO\", {JUAN} looking disappointed.",
+    f"{JUAN} coming back through the embassy door holding up one finger, a hopeful smile.",
+    f"The official stamping \"NO\" again, {JUAN} with a sad droopy face.",
+    f"{JUAN} with a light bulb over his head and a sneaky grin, rubbing his hands.",
+    f"A thought bubble: {JUAN} shaking hands with grey-uniformed officers.",
+    f"{JUAN} winking at the viewer, crossing his fingers behind his back, a red arrow pointing to the fingers.",
+    f"{JUAN} talking to {GER} at a table, smiling, a speech bubble \"I'LL SPY!\".",
+    f"{GER} nodding happily while {JUAN} walks past a road sign \"BRITAIN\" that has a big red X over it.",
+    f"{JUAN} sitting at a cafe table in a sunny city with yellow and orange houses, a sign \"LISBON\".",
+    f"{JUAN} at a desk writing a report, an open guidebook, a map and magazines around him, a typewriter.",
+    f"{JUAN} giggling at a silly report with funny doodles on it, a red question mark.",
+    f"A report page with handwritten text \"GLASGOW WORKERS LOVE WINE\" and a doodle of a wine bottle.",
+    "A giant cartoon wine bottle on a grey dock with cranes, a red question mark.",
+    "Glasgow dock workers (stick men in flat caps at a grey harbour with cranes) laughing loudly, holding their bellies.",
+    f"{GER} reading the report and nodding seriously, stamping it \"OK\".",
+]
+
+P2 = [
+    f"{JUAN} at a desk drawing more and more stick-figure spies on papers, piles growing, red arrows.",
+    f"A wall of 27 small framed stick-man portraits each with a different hat or moustache, {JUAN} pointing proudly.",
+    f"One fake spy portrait crossed out, a little stick widow crying, {GER} handing her a bag of money labelled \"PENSION\".",
+    f"{BRI} looking at a file with a photo of {JUAN}, light bulbs over their heads, Big Ben in the background, a sign \"LONDON\".",
+    f"{JUAN} holding a theatre mask and bowing on a little stage, a big sign \"GARBO\", a gold star.",
+    "A map of the English Channel with boats and red arrows heading to a beach labelled \"NORMANDY\", a sign \"1944\".",
+    f"{JUAN} typing a message on a typewriter, a thought bubble showing a map with a red X on \"NORMANDY\" and a red arrow pointing to \"CALAIS\".",
+    "Boats landing on a beach labelled \"D-DAY\", while far away grey tanks sit waiting at a sign \"CALAIS\", a red question mark.",
+    f"Grey tanks and {GER} waiting on an empty beach labelled \"CALAIS\", looking at their watches, bored, cobwebs on a tank.",
+    f"{GER} pinning a medal on {JUAN}'s chest, he smiles awkwardly.",
+    f"A British officer pinning a round medal labelled \"MBE\" on {JUAN}, who grins with two medals.",
+    f"{JUAN} with two medals tiptoeing away with a suitcase, a gravestone behind him reading \"JUAN?\" with a red question mark.",
+    f"An old {JUAN} with grey hair waving, holding a newspaper with the headline \"HE'S ALIVE!\".",
+    f"A giant number \"2\" next to {ONO} on a small green island with palm trees, a sign \"LUBANG 1944\".",
+    f"{ONO} shouting \"NEVER!\" while grey ships land on the island beach.",
+    f"{ONO} and three soldiers hiding in a green jungle, while a banner \"WAR OVER 1945\" flies in the sky.",
+    f"{ONO} holding a paper leaflet and frowning, more leaflets falling from the sky, a speech bubble \"FAKE!\".",
+    f"Newspapers and letters left on a rock in the jungle, {ONO} peeking from a bush, a speech bubble \"TRICK!\".",
+    f"A search party of stick men calling out in the jungle while {ONO} hides up a palm tree, sneaky face.",
+    f"{ONO} sitting in the jungle eating a banana, coconuts and a small basket of food beside him.",
+    f"{ONO} alone in the jungle sitting under a tree, sad face, a calendar with pages flying off.",
+    "A grey storm cloud over a dark jungle and a small hut of an island farmer, a red question mark, handwritten \"DARK SIDE\".",
+    "A young traveller (a stick man with long hair, a backpack and a big smile) arriving on an island beach, a sign \"1974\".",
+    "The traveller with a thought bubble showing three things: a jungle soldier, a panda and a hairy white abominable snowman.",
+    f"The traveller and {ONO} sitting by a small campfire in the jungle talking, a camera on a tripod taking their photo.",
+    f"{ONO} crossing his arms and shaking his head, a speech bubble \"ONLY IF ORDERED\".",
+    "An old stick man with glasses working in a bookshop with shelves of colourful books, a sign \"BOOKS\".",
+    f"The old commander in uniform reading a paper to {ONO} in the jungle, {ONO} standing to attention, handwritten \"WAR OVER\".",
+    f"{ONO} in his old ragged uniform handing over his sword, tears in his dot eyes, a sign \"29 YEARS\".",
+    f"A giant number \"1\" next to {YAM} standing in front of a shipyard, a sign \"1945 - AGE 29\".",
+    f"{YAM} at a drawing board drawing a ship, a sign \"MITSUBISHI\" on the wall, a harbour with a ship outside.",
+    "A simple map of Japan with two dots labelled \"NAGASAKI\" and \"HIROSHIMA\", a red dotted arrow between them, a suitcase.",
+    f"{YAM} walking happily with a suitcase on a city street, a clock showing 8:15, a tiny plane in the blue sky with a red arrow.",
+    f"A huge bright white and yellow flash over a far-away city, {YAM} covering his eyes, a sign \"3 KM\".",
+    f"{YAM} knocked onto the ground with motion lines and a surprised face, dust clouds around him.",
+    f"A flattened grey city in the distance with smoke, {YAM} with bandages sitting at the entrance of a simple shelter.",
+    f"{YAM} with bandaged arms and head sitting on a train seat looking out the window, a sign \"TO NAGASAKI\".",
+    f"{YAM} with bandages walking into an office with desks, a calendar on the wall \"9 AUGUST\".",
+    f"{YAM} with bandages explaining with big arm gestures to his boss (a stick man in a suit), a speech bubble showing a small mushroom cloud.",
+    "The boss with arms crossed laughing, a speech bubble \"IMPOSSIBLE!\".",
+    f"A big white flash filling the office window, {YAM} and the boss with huge circle eyes, a red question mark.",
+    f"{YAM} crawling out from under a desk in a messy office, alive, stunned face, a sign \"SURVIVED AGAIN\".",
+    f"An older {YAM} with grey hair smiling with stick-figure children around him, a garden.",
+    f"An old {YAM} on a stage speaking into a microphone, next to a sign with a bomb crossed out with a red X.",
+    "Many stick-figure people holding hands around a globe, a sign with a peace symbol.",
+    f"An official certificate with a red stamp reading \"SURVIVOR OF BOTH\", an old {YAM} holding it.",
+    "A balance scale with \"UNLUCKY\" on one side and \"LUCKY\" on the other, perfectly even, a red question mark.",
+    f"Five stick-figure icons in a row on a stage: {WOJ}, Mad Jack with a sword, a spy in a hat, a jungle soldier, and {YAM}.",
+    "A chalkboard with \"NUMBERS\" and \"BATTLES\" crossed out and \"PEOPLE\" circled in red.",
+    f"All five characters from the video waving together: the bear, Mad Jack, the spy, the jungle soldier and {YAM}.",
+    "A stick man presenter pointing at the viewer with a speech bubble \"WHICH ONE?\", next to a big crude red rounded button with white handwritten text \"SUBSCRIBE\".",
+    "A stick man presenter with a magnifying glass looking at a big old history book, many question marks floating out of it.",
+]
+
+segs = json.load(open("segments.json"))
+SCENES = [(p, ts, txt, s) for (p, ts, txt), s in zip(segs, P1 + P2)]
+assert (len(P1), len(P2)) == tuple(sum(1 for s in segs if s[0] == k) for k in (1, 2)), (len(P1), len(P2))
