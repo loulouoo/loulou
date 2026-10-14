@@ -11,6 +11,8 @@ Each frame stays on screen until the next timestamp; the last frame of each part
 
 **Thumbnails:** https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261014_191318_27dbba57-9bf9-474f-a840-2d32f8a43d18.png ("ONE OPEN DOOR") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261014_191318_cc19ff92-e091-458d-9319-4c9b6b4727e5.png ("WRONG NOTE") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261014_191321_2ba1ddbb-5a84-4968-bef1-814e492a7494.png ("WRONG UNITS") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261014_191332_017e8bc3-0802-4f89-b800-5f9512092fda.png ("THE MISSING KEY") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261014_191354_182e98e1-0508-4e9b-8acb-0e685f2a6410.png ("ARMY VS ITSELF")
 
+**More thumbnails:** https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261014_191855_0ece98d1-d201-4fe5-abf7-200e95fc3199.png ("$300 MILLION OOPS") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261014_191856_3096a831-d684-43d2-95eb-6635337e8f37.png ("HE READ IT WRONG") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261014_191855_e9a16078-91ac-4108-b0c2-5b03fb391cbe.png ("THIS KEY SANK IT?") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261014_191858_306de92f-d730-446d-a64d-315d7a58e710.png ("WHO LEFT IT OPEN?") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261014_191859_af39e761-109f-487f-8ce0-27b40e606e5b.png ("BIGGEST OOPS EVER")
+
 ## Part 1
 
 ### 0:00 (frame 1)
