@@ -9,6 +9,8 @@ One medium MS Paint style frame per timestamp (170 frames: part 1 = 87, part 2 =
 
 Each frame stays on screen until the next timestamp; the last frame of each part holds for 5 seconds.
 
+**Thumbnails:** https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261014_191318_27dbba57-9bf9-474f-a840-2d32f8a43d18.png ("ONE OPEN DOOR") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261014_191318_cc19ff92-e091-458d-9319-4c9b6b4727e5.png ("WRONG NOTE") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261014_191321_2ba1ddbb-5a84-4968-bef1-814e492a7494.png ("WRONG UNITS") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261014_191332_017e8bc3-0802-4f89-b800-5f9512092fda.png ("THE MISSING KEY") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261014_191354_182e98e1-0508-4e9b-8acb-0e685f2a6410.png ("ARMY VS ITSELF")
+
 ## Part 1
 
 ### 0:00 (frame 1)
