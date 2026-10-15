@@ -7,6 +7,8 @@ One medium MS Paint style frame per timestamp (131 frames: part 1 = 72, part 2 =
 - Video (10:44, 1920x1080, 131 frames; part 2 starts at 5:03, part 3 at 10:18): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/1f0c18b3-b20f-4dc4-92d5-bec3a57303b3.mp4
 - Zip backup (video + all 131 frames): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/7625cbfd-b908-41eb-958b-0f8ee28bb0da.zip
 
+**Thumbnails:** https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261015_173308_d1cd5123-bb22-459b-bc1e-c4e7f683aaa5.png ("HIT 7 TIMES!") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261015_173308_4197d34e-f943-4f4d-8ab7-eb192c9d1d92.png ("HIT BY SPACE?!") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261015_173309_b060189e-4fec-450e-a753-c5572aa0c3d2.png ("3 SHIPWRECKS") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261015_173307_4213cba2-5868-49a5-ae3e-f06b7110dd9d.png ("FELL 10 KM!") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261015_173309_042272ff-7c26-43a3-a6f5-7b33abad2869.png ("11 DAYS ALONE")
+
 Each frame stays on screen until the next timestamp; the last frame of each part holds for 5 seconds. Full slideshow length 10:44 (part 2 starts at 5:03, part 3 at 10:18).
 
 ## Part 1
