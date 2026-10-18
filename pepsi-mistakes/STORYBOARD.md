@@ -7,6 +7,8 @@ One medium MS Paint style frame per timestamp (173 frames: part 1 = 101, part 2 
 - Video (12:19, 1920x1080, 173 frames; part 2 starts at 5:08, part 3 at 10:27): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/f2310617-0b4d-47f0-893e-8b1291360127.mp4
 - Zip backup (video + all 173 frames): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/05106931-55b4-42a6-87fb-731710ab5780.zip
 
+**Thumbnails:** https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261018_195938_80586161-3c51-4309-940e-5e0ea0fb05a7.png ("$700,000 JET?!") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261018_195938_0dd180cc-ba58-4ee0-bbd8-0b341816317e.png ("WRONG MATHS") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261018_195938_4d3ceb1c-c510-4422-8405-4aa6ea872766.png ("ARMY VS ITSELF") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261018_195937_ab077192-f9f5-4b1f-a009-b078e1bf0e46.png ("WRONG NOTE!") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261018_195937_35a3a284-02af-4745-920f-82618c3281a7.png ("WHO LEFT IT OPEN?")
+
 Each frame stays on screen until the next timestamp; the last frame of each part holds for 5 seconds. Full slideshow length 12:19 (part 2 starts at 5:08, part 3 at 10:27).
 
 ## Part 1
