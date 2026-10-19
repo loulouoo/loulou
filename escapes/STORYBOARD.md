@@ -7,6 +7,8 @@ One medium MS Paint style frame per timestamp (177 frames: part 1 = 90, part 2 =
 - Video (11:16, 1920x1080, 177 frames; part 2 starts at 5:18, part 3 at 10:24): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/9f041f9f-9023-4d8b-a2f0-b87727e1155b.mp4
 - Zip backup (video + all 177 frames): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/2db94128-0f77-41c6-ba94-a0d9266e5684.zip
 
+**Thumbnails:** https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261019_191620_bd71a2ae-a4a7-45ad-aa75-ff15f551b309.png ("MAILED HIMSELF?!") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261019_191618_2508cb4c-322f-46da-bfdb-c90f88671768.png ("FAKE HEAD!") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261019_191618_9e862d55-1e1b-41c6-962e-06d514a35848.png ("ATTIC GLIDER!") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261019_191619_32653a56-fcf1-43ab-8bb8-850cf3a49f66.png ("TOO SHORT!") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261019_191619_d45e3537-650d-4dff-83ba-0ee1c53c630b.png ("AGAIN?!")
+
 Each frame stays on screen until the next timestamp; the last frame of each part holds for 5 seconds. Full slideshow length 11:16 (part 2 starts at 5:18, part 3 at 10:24).
 
 ## Part 1
