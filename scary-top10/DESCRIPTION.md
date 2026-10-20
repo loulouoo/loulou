@@ -37,3 +37,11 @@ These are 10 real videos caught on camera. Some have simple explanations. Some s
 👉 Subscribe for more.
 
 #ScaryVideos #Creepy #CaughtOnCamera #TrailCam #Paranormal #Unexplained #Scary
+
+## Thumbnails (1280x720, made from real frames)
+
+1. "WHAT IS THAT?": https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/73fc2588-4551-462c-a7d6-a7bb97a94508.jpg
+2. "IT'S FOLLOWING THEM": https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/957369ab-baa0-4620-88e8-52772e279605.jpg
+3. "WHAT DID SHE SEE?": https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/b1c82443-243d-4389-b671-a7ae486081e0.jpg
+4. "LOOK UP...": https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/ef61a112-1aa8-4482-af4b-b36e2130558d.jpg
+5. "WHAT IS THIS?": https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/5ab5b905-6448-4da2-80c2-257534ebd13e.jpg
