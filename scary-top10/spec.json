@@ -1,0 +1,744 @@
+[
+ {
+  "vo": 1,
+  "vol": 0.12,
+  "parts": [
+   [
+    "qKSNC2JkA3o",
+    17,
+    23,
+    1
+   ],
+   [
+    "J5sSzJ28q9s",
+    77,
+    83,
+    1
+   ],
+   [
+    "gFy6LVlNc6c",
+    5,
+    10,
+    1,
+    {
+     "crop": [
+      0,
+      0,
+      0.78,
+      0.78
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "vo": 2,
+  "vol": 0.12,
+  "parts": [
+   [
+    "KrwkXPs4IbM",
+    2.5,
+    4.5,
+    0.4
+   ],
+   [
+    "4h9mcR0UrfY",
+    4,
+    12,
+    1
+   ]
+  ],
+  "caps": [
+   [
+    "TOP 10 SCARY VIDEOS",
+    0.3,
+    5.5,
+    110,
+    "white",
+    130
+   ]
+  ]
+ },
+ {
+  "vo": 10,
+  "num": 10,
+  "title": "BIGFOOT?",
+  "vol": 0,
+  "credit": "Video: John Shellenbarger (used with permission)",
+  "parts": [
+   [
+    "7D0lLkdlot4",
+    0,
+    14,
+    1
+   ]
+  ]
+ },
+ {
+  "vo": 11,
+  "vol": 0,
+  "credit": "Video: John Shellenbarger (used with permission)",
+  "parts": [
+   [
+    "7D0lLkdlot4",
+    8,
+    20,
+    1,
+    {
+     "crop": [
+      0.25,
+      0.2,
+      0.5,
+      0.5
+     ]
+    }
+   ]
+  ],
+  "caps": [
+   [
+    "WATCH THE TREES",
+    0.5,
+    5,
+    90,
+    "0xE01414",
+    880
+   ]
+  ]
+ },
+ {
+  "vo": 12,
+  "vol": 0,
+  "credit": "Video: John Shellenbarger (used with permission)",
+  "parts": [
+   [
+    "7D0lLkdlot4",
+    30,
+    55,
+    1
+   ]
+  ],
+  "caps": [
+   [
+    "SEE IT? COMMENT WHERE",
+    17,
+    25,
+    80,
+    "white",
+    880
+   ]
+  ]
+ },
+ {
+  "vo": 20,
+  "num": 9,
+  "title": "THE MOUSETRAP CAM",
+  "vol": 0.2,
+  "credit": "Video: Eric Martens (used with permission)",
+  "parts": [
+   [
+    "Z7AYbppuSnk",
+    0,
+    6,
+    1
+   ],
+   [
+    "Z7AYbppuSnk",
+    150,
+    160,
+    1
+   ]
+  ]
+ },
+ {
+  "vo": 21,
+  "vol": 0.3,
+  "credit": "Video: Eric Martens (used with permission)",
+  "parts": [
+   [
+    "Z7AYbppuSnk",
+    160,
+    168,
+    0.6
+   ]
+  ],
+  "caps": [
+   [
+    "WHAT IS THAT?",
+    3,
+    9,
+    100,
+    "0xE01414",
+    880
+   ]
+  ]
+ },
+ {
+  "vo": 22,
+  "vol": 0.2,
+  "credit": "Video: Eric Martens (used with permission)",
+  "parts": [
+   [
+    "Z7AYbppuSnk",
+    168,
+    195,
+    1
+   ]
+  ],
+  "circle": [
+   0.52,
+   0.48,
+   0.17,
+   0.15,
+   1,
+   12
+  ]
+ },
+ {
+  "vo": 30,
+  "num": 8,
+  "title": "THE ORB",
+  "vol": 0.2,
+  "credit": "Video: Tom Salvatore (used with permission)",
+  "parts": [
+   [
+    "4h9mcR0UrfY",
+    0,
+    8,
+    1
+   ]
+  ]
+ },
+ {
+  "vo": 31,
+  "vol": 0.2,
+  "credit": "Video: Tom Salvatore (used with permission)",
+  "parts": [
+   [
+    "4h9mcR0UrfY",
+    4,
+    10,
+    0.6,
+    {
+     "crop": [
+      0.3,
+      0,
+      0.55,
+      0.55
+     ]
+    }
+   ]
+  ],
+  "circle": [
+   0.5,
+   0.13,
+   0.09,
+   0.11,
+   1,
+   9
+  ]
+ },
+ {
+  "vo": 32,
+  "vol": 0.2,
+  "credit": "Video: Tom Salvatore (used with permission)",
+  "parts": [
+   [
+    "4h9mcR0UrfY",
+    8,
+    17.6,
+    1
+   ],
+   [
+    "4h9mcR0UrfY",
+    0,
+    8,
+    1
+   ]
+  ]
+ },
+ {
+  "vo": 40,
+  "num": 7,
+  "title": "TURN YOUR VOLUME UP",
+  "vol": 0.3,
+  "credit": "Video: Domingo Martinez (used with permission)",
+  "parts": [
+   [
+    "IVh-FzJyTDs",
+    0,
+    9,
+    1
+   ]
+  ]
+ },
+ {
+  "vol": 2.5,
+  "credit": "Video: Domingo Martinez (used with permission)",
+  "parts": [
+   [
+    "IVh-FzJyTDs",
+    8,
+    17.6,
+    1
+   ]
+  ],
+  "caps": [
+   [
+    "LISTEN...",
+    0.5,
+    9,
+    100,
+    "0xE01414",
+    880
+   ]
+  ]
+ },
+ {
+  "vo": 42,
+  "vol": 0.6,
+  "credit": "Video: Domingo Martinez (used with permission)",
+  "parts": [
+   [
+    "IVh-FzJyTDs",
+    9,
+    17.6,
+    1
+   ]
+  ]
+ },
+ {
+  "vo": 50,
+  "num": 6,
+  "title": "THE SHADOW",
+  "vol": 0.2,
+  "credit": "Video: Kinjo (used with permission)",
+  "parts": [
+   [
+    "8MSx5VegSq0",
+    0,
+    11,
+    1,
+    {
+     "eq": "eq=brightness=0.12:contrast=1.5:gamma=1.6"
+    }
+   ]
+  ]
+ },
+ {
+  "vo": 51,
+  "vol": 0.2,
+  "credit": "Video: Kinjo (used with permission)",
+  "parts": [
+   [
+    "8MSx5VegSq0",
+    11,
+    17,
+    0.5,
+    {
+     "crop": [
+      0.15,
+      0.45,
+      0.55,
+      0.55
+     ],
+     "eq": "eq=brightness=0.12:contrast=1.5:gamma=1.6"
+    }
+   ]
+  ],
+  "circle": [
+   0.55,
+   0.52,
+   0.26,
+   0.16,
+   2,
+   11
+  ]
+ },
+ {
+  "vo": 52,
+  "vol": 0.2,
+  "credit": "Video: Kinjo (used with permission)",
+  "parts": [
+   [
+    "8MSx5VegSq0",
+    12,
+    25.5,
+    1,
+    {
+     "eq": "eq=brightness=0.12:contrast=1.5:gamma=1.6"
+    }
+   ]
+  ]
+ },
+ {
+  "vo": 60,
+  "num": 5,
+  "title": "THE MIST",
+  "vol": 0.2,
+  "credit": "Video: Shandy (used with permission)",
+  "parts": [
+   [
+    "evXaES6B9X4",
+    18,
+    30,
+    1,
+    {
+     "eq": "eq=brightness=0.06:contrast=1.3:gamma=1.3"
+    }
+   ]
+  ]
+ },
+ {
+  "vo": 61,
+  "vol": 0.2,
+  "credit": "Video: Shandy (used with permission)",
+  "parts": [
+   [
+    "evXaES6B9X4",
+    29,
+    35,
+    0.5,
+    {
+     "crop": [
+      0.15,
+      0.15,
+      0.7,
+      0.7
+     ],
+     "eq": "eq=brightness=0.06:contrast=1.3:gamma=1.3"
+    }
+   ]
+  ],
+  "circle": [
+   0.48,
+   0.5,
+   0.2,
+   0.3,
+   3,
+   11
+  ]
+ },
+ {
+  "vo": 62,
+  "vol": 0.2,
+  "credit": "Video: Shandy (used with permission)",
+  "parts": [
+   [
+    "evXaES6B9X4",
+    34,
+    52,
+    1,
+    {
+     "eq": "eq=brightness=0.06:contrast=1.3:gamma=1.3"
+    }
+   ]
+  ]
+ },
+ {
+  "vo": 70,
+  "num": 4,
+  "title": "THE FIGURE",
+  "vol": 0.2,
+  "credit": "Video: ViralHog (used with permission)",
+  "parts": [
+   [
+    "KrwkXPs4IbM",
+    5,
+    20,
+    1
+   ]
+  ]
+ },
+ {
+  "vo": 71,
+  "vol": 0.2,
+  "credit": "Video: ViralHog (used with permission)",
+  "parts": [
+   [
+    "KrwkXPs4IbM",
+    2,
+    5,
+    0.25,
+    {
+     "crop": [
+      0,
+      0.35,
+      0.45,
+      0.45
+     ]
+    }
+   ]
+  ],
+  "circle": [
+   0.39,
+   0.8,
+   0.08,
+   0.17,
+   4.5,
+   8.5
+  ]
+ },
+ {
+  "vo": 72,
+  "vol": 0.2,
+  "credit": "Video: ViralHog (used with permission)",
+  "parts": [
+   [
+    "KrwkXPs4IbM",
+    2.5,
+    4.5,
+    0.5,
+    {
+     "crop": [
+      0,
+      0.35,
+      0.45,
+      0.45
+     ]
+    }
+   ],
+   [
+    "KrwkXPs4IbM",
+    4.5,
+    20,
+    1
+   ]
+  ],
+  "circle": [
+   0.39,
+   0.8,
+   0.08,
+   0.17,
+   1.2,
+   3.2
+  ]
+ },
+ {
+  "vo": 80,
+  "num": 3,
+  "title": "THE EMPTY HALLWAY",
+  "vol": 0.1,
+  "credit": "Video: BAISDEN333 (used with permission)",
+  "parts": [
+   [
+    "J5sSzJ28q9s",
+    0,
+    8,
+    1
+   ]
+  ]
+ },
+ {
+  "vo": 81,
+  "vol": 0.1,
+  "credit": "Video: BAISDEN333 (used with permission)",
+  "parts": [
+   [
+    "J5sSzJ28q9s",
+    8,
+    26,
+    2
+   ],
+   [
+    "J5sSzJ28q9s",
+    26,
+    44,
+    1.5
+   ]
+  ]
+ },
+ {
+  "vo": 82,
+  "vol": 0.1,
+  "credit": "Video: BAISDEN333 (used with permission)",
+  "parts": [
+   [
+    "J5sSzJ28q9s",
+    44,
+    100,
+    1.6
+   ]
+  ],
+  "caps": [
+   [
+    "WHAT DID SHE SEE?",
+    28,
+    35,
+    90,
+    "0xE01414",
+    880
+   ]
+  ]
+ },
+ {
+  "vo": 90,
+  "num": 2,
+  "title": "IT WON'T STOP FOLLOWING",
+  "vol": 0.25,
+  "credit": "Video: Storyful (used with permission)",
+  "parts": [
+   [
+    "qKSNC2JkA3o",
+    0,
+    6,
+    1
+   ]
+  ]
+ },
+ {
+  "vol": 1.0,
+  "credit": "Video: Storyful (used with permission)",
+  "parts": [
+   [
+    "qKSNC2JkA3o",
+    0,
+    60,
+    1
+   ]
+  ],
+  "caps": [
+   [
+    "LOOK BEHIND THEM",
+    1,
+    6,
+    90,
+    "0xE01414",
+    880
+   ]
+  ]
+ },
+ {
+  "vo": 92,
+  "vol": 0.25,
+  "credit": "Video: Storyful (used with permission)",
+  "parts": [
+   [
+    "qKSNC2JkA3o",
+    60,
+    85,
+    1
+   ]
+  ]
+ },
+ {
+  "vo": 100,
+  "num": 1,
+  "title": "LA JUNTA, COLORADO",
+  "vol": 0,
+  "credit": "Video: Denver7 / Vivian Gomez (used with permission)",
+  "parts": [
+   [
+    "gFy6LVlNc6c",
+    5,
+    10,
+    0.5,
+    {
+     "crop": [
+      0,
+      0,
+      0.78,
+      0.78
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "vo": 101,
+  "vol": 0,
+  "credit": "Video: Denver7 / Vivian Gomez (used with permission)",
+  "parts": [
+   [
+    "gFy6LVlNc6c",
+    14.5,
+    19.5,
+    1,
+    {
+     "crop": [
+      0,
+      0,
+      0.78,
+      0.78
+     ]
+    }
+   ]
+  ],
+  "circle": [
+   0.44,
+   0.66,
+   0.1,
+   0.3,
+   0.3,
+   5
+  ]
+ },
+ {
+  "vo": 102,
+  "vol": 0,
+  "credit": "Video: Denver7 / Vivian Gomez (used with permission)",
+  "parts": [
+   [
+    "gFy6LVlNc6c",
+    12,
+    30,
+    0.8,
+    {
+     "crop": [
+      0,
+      0,
+      0.78,
+      0.78
+     ]
+    }
+   ]
+  ]
+ },
+ {
+  "vo": 110,
+  "vol": 0.12,
+  "parts": [
+   [
+    "qKSNC2JkA3o",
+    20,
+    26,
+    1
+   ],
+   [
+    "gFy6LVlNc6c",
+    6,
+    9,
+    1,
+    {
+     "crop": [
+      0,
+      0,
+      0.78,
+      0.78
+     ]
+    }
+   ],
+   [
+    "J5sSzJ28q9s",
+    76,
+    84,
+    1
+   ],
+   [
+    "4h9mcR0UrfY",
+    8,
+    14,
+    1
+   ]
+  ],
+  "caps": [
+   [
+    "SUBSCRIBE",
+    16,
+    40,
+    120,
+    "0xE01414",
+    880
+   ]
+  ]
+ }
+]
