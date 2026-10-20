@@ -1,70 +1,10 @@
 [
  {
-  "vo": 1,
-  "vol": 0.12,
-  "parts": [
-   [
-    "qKSNC2JkA3o",
-    17,
-    23,
-    1
-   ],
-   [
-    "J5sSzJ28q9s",
-    77,
-    83,
-    1
-   ],
-   [
-    "gFy6LVlNc6c",
-    5,
-    10,
-    1,
-    {
-     "crop": [
-      0,
-      0,
-      0.78,
-      0.78
-     ]
-    }
-   ]
-  ]
- },
- {
-  "vo": 2,
-  "vol": 0.12,
-  "parts": [
-   [
-    "KrwkXPs4IbM",
-    2.5,
-    4.5,
-    0.4
-   ],
-   [
-    "4h9mcR0UrfY",
-    4,
-    12,
-    1
-   ]
-  ],
-  "caps": [
-   [
-    "TOP 10 SCARY VIDEOS",
-    0.3,
-    5.5,
-    110,
-    "white",
-    130
-   ]
-  ]
- },
- {
   "vo": 10,
   "num": 10,
   "title": "BIGFOOT?",
   "vol": 0,
-  "credit": "Video: John Shellenbarger (used with permission)",
+  "credit": "Video: John Shellenbarger",
   "parts": [
    [
     "7D0lLkdlot4",
@@ -77,7 +17,7 @@
  {
   "vo": 11,
   "vol": 0,
-  "credit": "Video: John Shellenbarger (used with permission)",
+  "credit": "Video: John Shellenbarger",
   "parts": [
    [
     "7D0lLkdlot4",
@@ -108,7 +48,7 @@
  {
   "vo": 12,
   "vol": 0,
-  "credit": "Video: John Shellenbarger (used with permission)",
+  "credit": "Video: John Shellenbarger",
   "parts": [
    [
     "7D0lLkdlot4",
@@ -133,7 +73,7 @@
   "num": 9,
   "title": "THE MOUSETRAP CAM",
   "vol": 0.2,
-  "credit": "Video: Eric Martens (used with permission)",
+  "credit": "Video: Eric Martens",
   "parts": [
    [
     "Z7AYbppuSnk",
@@ -152,7 +92,7 @@
  {
   "vo": 21,
   "vol": 0.3,
-  "credit": "Video: Eric Martens (used with permission)",
+  "credit": "Video: Eric Martens",
   "parts": [
    [
     "Z7AYbppuSnk",
@@ -175,7 +115,7 @@
  {
   "vo": 22,
   "vol": 0.2,
-  "credit": "Video: Eric Martens (used with permission)",
+  "credit": "Video: Eric Martens",
   "parts": [
    [
     "Z7AYbppuSnk",
@@ -198,7 +138,7 @@
   "num": 8,
   "title": "THE ORB",
   "vol": 0.2,
-  "credit": "Video: Tom Salvatore (used with permission)",
+  "credit": "Video: Tom Salvatore",
   "parts": [
    [
     "4h9mcR0UrfY",
@@ -211,7 +151,7 @@
  {
   "vo": 31,
   "vol": 0.2,
-  "credit": "Video: Tom Salvatore (used with permission)",
+  "credit": "Video: Tom Salvatore",
   "parts": [
    [
     "4h9mcR0UrfY",
@@ -240,7 +180,7 @@
  {
   "vo": 32,
   "vol": 0.2,
-  "credit": "Video: Tom Salvatore (used with permission)",
+  "credit": "Video: Tom Salvatore",
   "parts": [
    [
     "4h9mcR0UrfY",
@@ -261,7 +201,7 @@
   "num": 7,
   "title": "TURN YOUR VOLUME UP",
   "vol": 0.3,
-  "credit": "Video: Domingo Martinez (used with permission)",
+  "credit": "Video: Domingo Martinez",
   "parts": [
    [
     "IVh-FzJyTDs",
@@ -273,7 +213,7 @@
  },
  {
   "vol": 2.5,
-  "credit": "Video: Domingo Martinez (used with permission)",
+  "credit": "Video: Domingo Martinez",
   "parts": [
    [
     "IVh-FzJyTDs",
@@ -296,7 +236,7 @@
  {
   "vo": 42,
   "vol": 0.6,
-  "credit": "Video: Domingo Martinez (used with permission)",
+  "credit": "Video: Domingo Martinez",
   "parts": [
    [
     "IVh-FzJyTDs",
@@ -311,7 +251,7 @@
   "num": 6,
   "title": "THE SHADOW",
   "vol": 0.2,
-  "credit": "Video: Kinjo (used with permission)",
+  "credit": "Video: Kinjo",
   "parts": [
    [
     "8MSx5VegSq0",
@@ -327,7 +267,7 @@
  {
   "vo": 51,
   "vol": 0.2,
-  "credit": "Video: Kinjo (used with permission)",
+  "credit": "Video: Kinjo",
   "parts": [
    [
     "8MSx5VegSq0",
@@ -357,7 +297,7 @@
  {
   "vo": 52,
   "vol": 0.2,
-  "credit": "Video: Kinjo (used with permission)",
+  "credit": "Video: Kinjo",
   "parts": [
    [
     "8MSx5VegSq0",
@@ -375,7 +315,7 @@
   "num": 5,
   "title": "THE MIST",
   "vol": 0.2,
-  "credit": "Video: Shandy (used with permission)",
+  "credit": "Video: Shandy",
   "parts": [
    [
     "evXaES6B9X4",
@@ -391,7 +331,7 @@
  {
   "vo": 61,
   "vol": 0.2,
-  "credit": "Video: Shandy (used with permission)",
+  "credit": "Video: Shandy",
   "parts": [
    [
     "evXaES6B9X4",
@@ -421,7 +361,7 @@
  {
   "vo": 62,
   "vol": 0.2,
-  "credit": "Video: Shandy (used with permission)",
+  "credit": "Video: Shandy",
   "parts": [
    [
     "evXaES6B9X4",
@@ -439,7 +379,7 @@
   "num": 4,
   "title": "THE FIGURE",
   "vol": 0.2,
-  "credit": "Video: ViralHog (used with permission)",
+  "credit": "Video: ViralHog",
   "parts": [
    [
     "KrwkXPs4IbM",
@@ -452,7 +392,7 @@
  {
   "vo": 71,
   "vol": 0.2,
-  "credit": "Video: ViralHog (used with permission)",
+  "credit": "Video: ViralHog",
   "parts": [
    [
     "KrwkXPs4IbM",
@@ -481,7 +421,7 @@
  {
   "vo": 72,
   "vol": 0.2,
-  "credit": "Video: ViralHog (used with permission)",
+  "credit": "Video: ViralHog",
   "parts": [
    [
     "KrwkXPs4IbM",
@@ -518,7 +458,7 @@
   "num": 3,
   "title": "THE EMPTY HALLWAY",
   "vol": 0.1,
-  "credit": "Video: BAISDEN333 (used with permission)",
+  "credit": "Video: BAISDEN333",
   "parts": [
    [
     "J5sSzJ28q9s",
@@ -531,7 +471,7 @@
  {
   "vo": 81,
   "vol": 0.1,
-  "credit": "Video: BAISDEN333 (used with permission)",
+  "credit": "Video: BAISDEN333",
   "parts": [
    [
     "J5sSzJ28q9s",
@@ -550,7 +490,7 @@
  {
   "vo": 82,
   "vol": 0.1,
-  "credit": "Video: BAISDEN333 (used with permission)",
+  "credit": "Video: BAISDEN333",
   "parts": [
    [
     "J5sSzJ28q9s",
@@ -575,7 +515,7 @@
   "num": 2,
   "title": "IT WON'T STOP FOLLOWING",
   "vol": 0.25,
-  "credit": "Video: Storyful (used with permission)",
+  "credit": "Video: Storyful",
   "parts": [
    [
     "qKSNC2JkA3o",
@@ -587,7 +527,7 @@
  },
  {
   "vol": 1.0,
-  "credit": "Video: Storyful (used with permission)",
+  "credit": "Video: Storyful",
   "parts": [
    [
     "qKSNC2JkA3o",
@@ -610,7 +550,7 @@
  {
   "vo": 92,
   "vol": 0.25,
-  "credit": "Video: Storyful (used with permission)",
+  "credit": "Video: Storyful",
   "parts": [
    [
     "qKSNC2JkA3o",
@@ -625,7 +565,7 @@
   "num": 1,
   "title": "LA JUNTA, COLORADO",
   "vol": 0,
-  "credit": "Video: Denver7 / Vivian Gomez (used with permission)",
+  "credit": "Video: Denver7 / Vivian Gomez",
   "parts": [
    [
     "gFy6LVlNc6c",
@@ -646,7 +586,7 @@
  {
   "vo": 101,
   "vol": 0,
-  "credit": "Video: Denver7 / Vivian Gomez (used with permission)",
+  "credit": "Video: Denver7 / Vivian Gomez",
   "parts": [
    [
     "gFy6LVlNc6c",
@@ -675,7 +615,7 @@
  {
   "vo": 102,
   "vol": 0,
-  "credit": "Video: Denver7 / Vivian Gomez (used with permission)",
+  "credit": "Video: Denver7 / Vivian Gomez",
   "parts": [
    [
     "gFy6LVlNc6c",

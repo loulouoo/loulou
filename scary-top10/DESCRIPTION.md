@@ -6,23 +6,22 @@
 
 A bear that won't stop following a family down a mountain trail. A student in an empty school hallway who suddenly looks terrified. And a tiny pale figure caught on a security camera in La Junta, Colorado.
 
-These are 10 real videos, shared by the people who filmed them and used here with their permission. Some have simple explanations. Some still don't.
+These are 10 real videos caught on camera. Some have simple explanations. Some still don't.
 
 ⏱️ Chapters
-0:00 Intro
-0:35 #10 Bigfoot? (Hocking Hills, Ohio)
-1:33 #9 The mousetrap cam
-2:29 #8 The orb
-3:16 #7 Turn your volume up
-4:00 #6 The shadow
-4:45 #5 The mist
-5:36 #4 The figure
-6:26 #3 The empty hallway
-7:34 #2 It won't stop following
-9:16 #1 La Junta, Colorado
-10:03 Which one scared you most?
+0:00 #10 Bigfoot? (Hocking Hills, Ohio)
+0:58 #9 The mousetrap cam
+1:55 #8 The orb
+2:42 #7 Turn your volume up
+3:25 #6 The shadow
+4:11 #5 The mist
+5:01 #4 The figure
+5:52 #3 The empty hallway
+6:59 #2 It won't stop following
+8:41 #1 La Junta, Colorado
+9:28 Which one scared you most?
 
-🎥 Video credits (used with permission)
+🎥 Video credits
 #10 John Shellenbarger: https://youtu.be/7D0lLkdlot4
 #9 Eric Martens: https://youtu.be/Z7AYbppuSnk
 #8 Tom Salvatore: https://youtu.be/4h9mcR0UrfY
