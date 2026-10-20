@@ -45,3 +45,8 @@ These are 10 real videos caught on camera. Some have simple explanations. Some s
 3. "WHAT DID SHE SEE?": https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/b1c82443-243d-4389-b671-a7ae486081e0.jpg
 4. "LOOK UP...": https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/ef61a112-1aa8-4482-af4b-b36e2130558d.jpg
 5. "WHAT IS THIS?": https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/5ab5b905-6448-4da2-80c2-257534ebd13e.jpg
+6. "NOT HUMAN?": https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/eedf4159-c743-4988-bea1-ffde427bbb81.jpg
+7. "DON'T RUN...": https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/3e89b3c5-536f-466c-9868-c98be5a5be06.jpg
+8. "WHAT CRAWLED IN?": https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/4ff9935d-d562-45f5-8bfe-3c3b91c65db3.jpg
+9. "BLINK AND YOU MISS IT": https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/f8d3f715-e4a9-4f4f-a57d-b122155673d4.jpg
+10. "TOP 10 collage": https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/06005191-e410-424d-ae59-7cc4da3c09ed.jpg
