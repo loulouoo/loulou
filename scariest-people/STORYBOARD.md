@@ -7,6 +7,8 @@ One medium MS Paint style frame per timestamp (134 frames: part 1 = 84, part 2 =
 - Video (10:02, 1920x1080, 134 frames; part 2 starts at 5:19): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/60ea285f-0f3e-4c0c-b232-31f033b36ec5.mp4
 - Zip backup (video + all 134 frames): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/9c5bc66c-393d-45b9-bbd1-20838bd2dde2.zip
 
+**Thumbnails:** https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261020_131518_458800f5-1b84-4399-9298-c6c18d995b13.png ("WOULDN'T DIE!") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261020_131519_817505ab-6a68-4a96-9398-746e95f4ffa7.png ("WALLED IN!") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261020_131519_2bd9e723-4770-4cc1-ae6c-72004669dc1c.png ("TERRIBLE!") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261020_131518_4bd43f95-b2a9-4243-aeb5-ecb4b5471112.png ("REAL DRACULA") · https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261020_131519_aa469412-1d86-4ac1-a9ad-fd80462f261e.png ("BIGGEST EMPIRE!")
+
 Each frame stays on screen until the next timestamp; the last frame of each part holds for 5 seconds. Full slideshow length 10:02 (part 2 starts at 5:19).
 
 ## Part 1
