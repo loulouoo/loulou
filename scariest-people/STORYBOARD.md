@@ -2,6 +2,11 @@
 
 One medium MS Paint style frame per timestamp (134 frames: part 1 = 84, part 2 = 50), generated with Higgsfield (gpt_image_2_5, 16:9). Scene prompts are in `scenes.py`; frame order and durations are in `frames.txt`.
 
+## Timed slideshow video
+
+- Video (10:02, 1920x1080, 134 frames; part 2 starts at 5:19): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/60ea285f-0f3e-4c0c-b232-31f033b36ec5.mp4
+- Zip backup (video + all 134 frames): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/9c5bc66c-393d-45b9-bbd1-20838bd2dde2.zip
+
 Each frame stays on screen until the next timestamp; the last frame of each part holds for 5 seconds. Full slideshow length 10:02 (part 2 starts at 5:19).
 
 ## Part 1
