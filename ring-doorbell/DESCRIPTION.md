@@ -42,3 +42,12 @@ Open the Door: NBC News, https://youtu.be/sYvEz8evrgU
 👉 Subscribe for more.
 
 #RingDoorbell #ScaryVideos #CaughtOnCamera #Creepy #DoorbellCamera #Scary #Unexplained
+
+## Thumbnails (1280x720, made from real frames, no circles)
+
+1. "DON'T ANSWER THE DOOR..." (hooded prowler): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/e2de6805-6f3c-4b48-88ec-255e85bb89da.jpg
+2. "LOOK AT THE ROOF..." (mountain lion on the truck): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/e3a29430-3940-41fb-a511-311204da109a.jpg
+3. "DON'T GO OUTSIDE..." (bear at the coop): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/ce7433a3-a49c-42a2-9574-389d0f0ab5bd.jpg
+4. "SOMEONE'S AT THE WINDOW" (man at the window): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/7f4f776b-a886-4320-8b8d-86d089e71008.jpg
+5. "WHAT IS THAT?" (figure in the snow): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/0c8e012e-4d65-4a34-a6ee-daec88607197.jpg
+6. "CAUGHT ON RING CAMERA" collage: https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/d38cbf45-bdae-42a4-b3fa-04135fa29654.jpg
