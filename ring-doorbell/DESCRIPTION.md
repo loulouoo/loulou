@@ -1,6 +1,6 @@
 # YouTube title and description
 
-**Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/2ff11c75-8837-498a-a206-dd26cfbff61b.mp4
+**Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/28eba4c5-5fe0-4c2c-9579-b989abff9c71.mp4
 
 **Title:** Don't Answer the Door... Scary Things Caught on Ring Doorbell Cameras
 
@@ -17,15 +17,15 @@ These are 9 real moments caught on doorbell and home security cameras. Every cli
 
 ⏱️ Chapters
 0:00 The Window
-1:14 Cougar Country
-2:36 Three Visitors
-3:49 The Chicken Coop
-5:29 Something in the Snow
-7:02 4:30 AM
-8:22 They Have a Ring
-9:25 Somebody Help Me
-11:05 Open the Door
-13:07 Which one scared you most?
+1:10 Cougar Country
+2:25 Three Visitors
+3:37 The Chicken Coop
+5:11 Something in the Snow
+6:42 4:30 AM
+7:56 They Have a Ring
+8:56 Somebody Help Me
+10:25 Open the Door
+12:24 Which one scared you most?
 
 🎥 Video credits
 The Window: Ring, https://youtu.be/2MqPJjTc1Bo

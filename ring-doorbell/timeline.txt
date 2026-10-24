@@ -1,0 +1,37 @@
+0.00 3.53 card The Window
+3.53 17.83 intro
+17.83 32.53 play
+32.53 70.56 analysis
+70.56 74.10 card Cougar Country
+74.10 91.03 intro
+91.03 115.03 play
+115.03 145.16 analysis
+145.16 148.70 card Three Visitors
+148.70 171.30 intro
+171.30 195.30 play
+195.30 217.60 analysis
+217.60 221.13 card The Chicken Coop
+221.13 232.78 intro
+232.78 279.48 play
+279.48 311.12 analysis
+311.12 314.65 card Something in the Snow
+314.65 333.56 intro
+333.56 365.95 play
+365.95 402.18 analysis
+402.18 405.72 card 4:30 AM
+405.72 418.96 intro
+418.96 448.59 play
+448.59 476.73 analysis
+476.73 480.26 card They Have a Ring
+480.26 489.27 intro
+489.27 505.67 play
+505.67 536.84 analysis
+536.84 540.37 card Somebody Help Me
+540.37 555.61 intro
+555.61 597.01 play
+597.01 625.87 analysis
+625.87 629.41 card Open the Door
+629.41 642.01 intro
+642.01 703.11 play
+703.11 744.91 analysis
+744.91 765.21 analysis
