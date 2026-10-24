@@ -2,11 +2,12 @@
 
 **Video:** https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/0c37d737-50d3-4e28-8f98-d76fb5cdfd4f.mp4
 
-**Title:** He Didn't Stop... Top 10 Scary Videos (Vol. 2)
+**Title:** Don't Open the Door... Top 10 Scary Videos (Vol. 2)
 
 Alternatives:
-- Men in Suits on a Dark Road at Night... Top 10 Scary Videos
+- He Didn't Stop... Top 10 Scary Videos (Vol. 2)
 - Never Stop for These Cones... Top 10 Scary Videos Caught on Camera
+- Who Are They? Top 10 Scary Videos Caught on Camera
 
 **Description:**
 
@@ -43,3 +44,11 @@ These are 10 real videos caught on camera. Some have simple explanations. Some s
 👉 Subscribe for more.
 
 #ScaryVideos #Creepy #CaughtOnCamera #Dashcam #TrailCam #Paranormal #Unexplained
+
+## Thumbnails (1280x720, made from real frames)
+
+1. "DON'T OPEN THE DOOR..." (masked man, #8): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/74cdd19b-f885-4668-b166-446e221031c8.jpg
+2. "WHO ARE THEY?" (men in suits, #2): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/a6d65cd4-aff7-4237-9630-84ee335dbe7c.jpg
+3. "NEVER STOP FOR THESE CONES" (roadblock, #1): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/1ec7ad53-c7d5-48b6-8adf-b70538a0eb25.jpg
+4. "WHY IS HE STANDING THERE?" (the mask, #3): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/38a82fe1-3ae0-4d1d-a016-a43ec93d7228.jpg
+5. "TOP 10 SCARY VIDEOS" collage: https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/a4668a33-fbfc-4697-af1e-87abdd1099b4.jpg
