@@ -1,0 +1,589 @@
+{
+ "segments": [
+  {
+   "type": "card",
+   "title": "The Window"
+  },
+  {
+   "type": "intro",
+   "src": "2MqPJjTc1Bo",
+   "t": 0.4,
+   "vo": 10,
+   "credit": "Video: Ring",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "2MqPJjTc1Bo",
+   "parts": [
+    [
+     0,
+     14.7
+    ]
+   ],
+   "credit": "Video: Ring",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 11,
+   "credit": "Video: Ring",
+   "vol": 0.2,
+   "parts": [
+    [
+     "2MqPJjTc1Bo",
+     0,
+     6,
+     0.5,
+     [
+      0.08,
+      0.4,
+      0.5,
+      0.5
+     ]
+    ],
+    [
+     "2MqPJjTc1Bo",
+     6,
+     11.2,
+     0.5,
+     [
+      0.08,
+      0.4,
+      0.5,
+      0.5
+     ]
+    ],
+    [
+     "2MqPJjTc1Bo",
+     11,
+     14.5,
+     0.4
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Cougar Country"
+  },
+  {
+   "type": "intro",
+   "src": "aZjRfzSKCeU",
+   "t": 0.5,
+   "vo": 20,
+   "credit": "Video: Ring",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "aZjRfzSKCeU",
+   "parts": [
+    [
+     0,
+     24
+    ]
+   ],
+   "credit": "Video: Ring",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 21,
+   "credit": "Video: Ring",
+   "vol": 0.2,
+   "parts": [
+    [
+     "aZjRfzSKCeU",
+     0,
+     6,
+     0.5,
+     [
+      0.45,
+      0,
+      0.5,
+      0.5
+     ]
+    ],
+    [
+     "aZjRfzSKCeU",
+     6,
+     15,
+     0.5
+    ],
+    [
+     "aZjRfzSKCeU",
+     15,
+     24,
+     0.5,
+     [
+      0.35,
+      0,
+      0.6,
+      0.6
+     ]
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Three Visitors"
+  },
+  {
+   "type": "intro",
+   "src": "dXNmmCNK_fU",
+   "t": 0.1,
+   "vo": 30,
+   "credit": "Video: Ring",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "dXNmmCNK_fU",
+   "parts": [
+    [
+     0,
+     24
+    ]
+   ],
+   "credit": "Video: Ring",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 31,
+   "credit": "Video: Ring",
+   "vol": 0.2,
+   "parts": [
+    [
+     "dXNmmCNK_fU",
+     0,
+     12,
+     0.5
+    ],
+    [
+     "dXNmmCNK_fU",
+     12,
+     24,
+     0.6,
+     [
+      0.4,
+      0.2,
+      0.6,
+      0.6
+     ]
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "The Chicken Coop"
+  },
+  {
+   "type": "intro",
+   "src": "H6_YpVBzqNw",
+   "t": 0.5,
+   "vo": 40,
+   "credit": "Video: Ring",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "H6_YpVBzqNw",
+   "parts": [
+    [
+     0,
+     46.7
+    ]
+   ],
+   "credit": "Video: Ring",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 41,
+   "credit": "Video: Ring",
+   "vol": 0.2,
+   "parts": [
+    [
+     "H6_YpVBzqNw",
+     10,
+     22,
+     0.6
+    ],
+    [
+     "H6_YpVBzqNw",
+     25,
+     31,
+     0.4
+    ],
+    [
+     "H6_YpVBzqNw",
+     38,
+     46,
+     1
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Something in the Snow"
+  },
+  {
+   "type": "intro",
+   "src": "VQaXxTrd88I",
+   "t": 0.5,
+   "vo": 50,
+   "credit": "Video: Jensen Poore / TownLift",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "VQaXxTrd88I",
+   "parts": [
+    [
+     0,
+     32.4
+    ]
+   ],
+   "credit": "Video: Jensen Poore / TownLift",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 51,
+   "credit": "Video: Jensen Poore / TownLift",
+   "vol": 0.2,
+   "parts": [
+    [
+     "VQaXxTrd88I",
+     9,
+     20,
+     0.6,
+     [
+      0,
+      0.25,
+      0.6,
+      0.6
+     ]
+    ],
+    [
+     "VQaXxTrd88I",
+     20,
+     27,
+     0.4
+    ],
+    [
+     "VQaXxTrd88I",
+     27,
+     32,
+     0.6
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "4:30 AM"
+  },
+  {
+   "type": "intro",
+   "src": "xxdFMqHiGV4",
+   "t": 0.3,
+   "vo": 60,
+   "credit": "Video: armando Jr",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "xxdFMqHiGV4",
+   "parts": [
+    [
+     0,
+     30
+    ]
+   ],
+   "credit": "Video: armando Jr",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 61,
+   "credit": "Video: armando Jr",
+   "vol": 0.2,
+   "parts": [
+    [
+     "xxdFMqHiGV4",
+     0,
+     5,
+     0.5,
+     [
+      0.1,
+      0.2,
+      0.6,
+      0.6
+     ]
+    ],
+    [
+     "xxdFMqHiGV4",
+     13,
+     18,
+     0.4,
+     [
+      0.1,
+      0.2,
+      0.6,
+      0.6
+     ]
+    ],
+    [
+     "xxdFMqHiGV4",
+     18,
+     30,
+     1
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "They Have a Ring"
+  },
+  {
+   "type": "intro",
+   "src": "Rl3I1rX5U6c",
+   "t": 0.2,
+   "vo": 70,
+   "credit": "Video: Ring",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "Rl3I1rX5U6c",
+   "parts": [
+    [
+     0,
+     16.4
+    ]
+   ],
+   "credit": "Video: Ring",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 71,
+   "credit": "Video: Ring",
+   "vol": 0.2,
+   "parts": [
+    [
+     "Rl3I1rX5U6c",
+     0,
+     6,
+     0.5
+    ],
+    [
+     "Rl3I1rX5U6c",
+     6,
+     12.5,
+     0.5
+    ],
+    [
+     "Rl3I1rX5U6c",
+     12.5,
+     16.4,
+     0.4
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Somebody Help Me"
+  },
+  {
+   "type": "intro",
+   "src": "ZgEa8I4hrL0",
+   "t": 1,
+   "vo": 80,
+   "credit": "Video: Inside Edition",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "ZgEa8I4hrL0",
+   "parts": [
+    [
+     0,
+     25.5
+    ],
+    [
+     48,
+     51.5
+    ],
+    [
+     55,
+     67.4
+    ]
+   ],
+   "credit": "Video: Inside Edition",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 81,
+   "credit": "Video: Inside Edition",
+   "vol": 0.12,
+   "parts": [
+    [
+     "ZgEa8I4hrL0",
+     0,
+     10,
+     0.6
+    ],
+    [
+     "ZgEa8I4hrL0",
+     10,
+     25,
+     0.6
+    ],
+    [
+     "ZgEa8I4hrL0",
+     55,
+     64,
+     0.5
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Open the Door"
+  },
+  {
+   "type": "intro",
+   "src": "sYvEz8evrgU",
+   "t": 3,
+   "vo": 90,
+   "credit": "Video: NBC News",
+   "crop": [
+    0.075,
+    0,
+    0.85,
+    0.85
+   ]
+  },
+  {
+   "type": "play",
+   "src": "sYvEz8evrgU",
+   "parts": [
+    [
+     0,
+     51.8
+    ],
+    [
+     59.5,
+     64.6
+    ],
+    [
+     74.8,
+     79
+    ]
+   ],
+   "credit": "Video: NBC News",
+   "crop": [
+    0.075,
+    0,
+    0.85,
+    0.85
+   ]
+  },
+  {
+   "type": "analysis",
+   "vo": 91,
+   "credit": "Video: NBC News",
+   "vol": 0.12,
+   "parts": [
+    [
+     "sYvEz8evrgU",
+     0,
+     14,
+     0.6,
+     [
+      0.075,
+      0,
+      0.85,
+      0.85
+     ]
+    ],
+    [
+     "sYvEz8evrgU",
+     28,
+     36,
+     0.5,
+     [
+      0.075,
+      0,
+      0.85,
+      0.85
+     ]
+    ],
+    [
+     "sYvEz8evrgU",
+     71,
+     74,
+     0.4,
+     [
+      0.075,
+      0,
+      0.85,
+      0.85
+     ]
+    ],
+    [
+     "sYvEz8evrgU",
+     59.5,
+     64.5,
+     0.6,
+     [
+      0.075,
+      0,
+      0.85,
+      0.85
+     ]
+    ]
+   ]
+  },
+  {
+   "type": "analysis",
+   "vo": 110,
+   "vol": 0.1,
+   "parts": [
+    [
+     "2MqPJjTc1Bo",
+     0,
+     8,
+     1
+    ],
+    [
+     "dXNmmCNK_fU",
+     2,
+     10,
+     1
+    ],
+    [
+     "sYvEz8evrgU",
+     70,
+     74,
+     1,
+     [
+      0.075,
+      0,
+      0.85,
+      0.85
+     ]
+    ],
+    [
+     "H6_YpVBzqNw",
+     26,
+     31,
+     1
+    ]
+   ]
+  }
+ ]
+}

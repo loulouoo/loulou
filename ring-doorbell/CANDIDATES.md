@@ -17,3 +17,7 @@ Checked so far from YouTube thumbnails and titles only. Each clip still needs a 
 | 10 | Strange figure in a wooded yard: "Do I have company?" | Claudia Ackley | https://youtu.be/gcl1Govfp08 |
 
 Backups: orb / white mist on a Ring camera (https://youtu.be/kHRhLZiZzXI), "Bigfoot caught on Ring" (https://youtu.be/SFlElB-YMVA), creepy man at the door at 4:30am (https://youtu.be/xxdFMqHiGV4), Nest cam unexplained screaming (https://youtu.be/ApjJzMfvVKs), "Baba Yaga" on a Ring doorbell (https://youtu.be/xdIOmGRO1w0).
+
+## Final line-up (9 clips)
+
+The Dobby clip (#1) was dropped at the user's request. The "Do I have company?" clip (#10) only showed drifting specks with nothing verifiable, so it was swapped for the backup "creepy man at my door at 4:30am" clip. See SCRIPT.md for the order.
