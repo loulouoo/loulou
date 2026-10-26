@@ -1,0 +1,513 @@
+{
+ "segments": [
+  {
+   "type": "card",
+   "title": "Walking Backwards"
+  },
+  {
+   "type": "intro",
+   "src": "8d5vENjxCyg",
+   "t": 2,
+   "vo": 10,
+   "credit": "Video: Jeffrey Glassner / Inside Edition",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "8d5vENjxCyg",
+   "parts": [
+    [
+     0,
+     97
+    ]
+   ],
+   "credit": "Video: Jeffrey Glassner / Inside Edition",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 11,
+   "credit": "Video: Jeffrey Glassner / Inside Edition",
+   "vol": 0.2,
+   "parts": [
+    [
+     "8d5vENjxCyg",
+     0,
+     12,
+     0.6
+    ],
+    [
+     "8d5vENjxCyg",
+     50,
+     58,
+     0.5
+    ],
+    [
+     "8d5vENjxCyg",
+     88,
+     97,
+     0.6
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Time To Go"
+  },
+  {
+   "type": "intro",
+   "src": "GdHLtbo80dk",
+   "t": 1,
+   "vo": 20,
+   "credit": "Video: Tomorrowsgarden",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "GdHLtbo80dk",
+   "parts": [
+    [
+     0,
+     74.2
+    ]
+   ],
+   "credit": "Video: Tomorrowsgarden",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 21,
+   "credit": "Video: Tomorrowsgarden",
+   "vol": 0.5,
+   "parts": [
+    [
+     "GdHLtbo80dk",
+     52,
+     74,
+     0.6
+    ],
+    [
+     "GdHLtbo80dk",
+     56,
+     68,
+     1
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Consolation Lakes"
+  },
+  {
+   "type": "intro",
+   "src": "K8Qf4QcYy48",
+   "t": 41.9,
+   "vo": 30,
+   "credit": "Video: CBC News / Phoebe Nicholson",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "K8Qf4QcYy48",
+   "parts": [
+    [
+     0,
+     82
+    ]
+   ],
+   "credit": "Video: CBC News / Phoebe Nicholson",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 31,
+   "credit": "Video: CBC News / Phoebe Nicholson",
+   "vol": 0.2,
+   "parts": [
+    [
+     "K8Qf4QcYy48",
+     40,
+     47,
+     0.5
+    ],
+    [
+     "K8Qf4QcYy48",
+     55,
+     63,
+     0.5
+    ],
+    [
+     "K8Qf4QcYy48",
+     30,
+     34,
+     0.6
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Vermilion River"
+  },
+  {
+   "type": "intro",
+   "src": "GY73ffSq4uU",
+   "t": 5,
+   "vo": 40,
+   "credit": "Video: APTN News",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "GY73ffSq4uU",
+   "parts": [
+    [
+     0,
+     45.3
+    ]
+   ],
+   "credit": "Video: APTN News",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 41,
+   "credit": "Video: APTN News",
+   "vol": 0.4,
+   "parts": [
+    [
+     "GY73ffSq4uU",
+     0,
+     45,
+     1
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Get Off The Trail"
+  },
+  {
+   "type": "intro",
+   "src": "7g9aEaESfL0",
+   "t": 6,
+   "vo": 50,
+   "credit": "Video: Dul\u00e9 Krivdich / KRTV News",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "7g9aEaESfL0",
+   "parts": [
+    [
+     0,
+     45.7
+    ]
+   ],
+   "credit": "Video: Dul\u00e9 Krivdich / KRTV News",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 51,
+   "credit": "Video: Dul\u00e9 Krivdich / KRTV News",
+   "vol": 0.35,
+   "parts": [
+    [
+     "7g9aEaESfL0",
+     0,
+     15,
+     0.6,
+     [
+      0.2,
+      0.2,
+      0.6,
+      0.6
+     ]
+    ],
+    [
+     "7g9aEaESfL0",
+     20,
+     32,
+     0.6
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "A Strange Noise"
+  },
+  {
+   "type": "intro",
+   "src": "stISzPngwh4",
+   "t": 10,
+   "vo": 60,
+   "credit": "Video: Stargell Blackstar",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "stISzPngwh4",
+   "parts": [
+    [
+     0,
+     70
+    ]
+   ],
+   "credit": "Video: Stargell Blackstar",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 61,
+   "credit": "Video: Stargell Blackstar",
+   "vol": 0.4,
+   "parts": [
+    [
+     "stISzPngwh4",
+     30,
+     66,
+     1
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Nowhere To Go"
+  },
+  {
+   "type": "intro",
+   "src": "ICVpIUeD6gY",
+   "t": 2,
+   "vo": 70,
+   "credit": "Video: @laurago1d via Storyful / FOX 11",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "ICVpIUeD6gY",
+   "parts": [
+    [
+     0,
+     99
+    ]
+   ],
+   "credit": "Video: @laurago1d via Storyful / FOX 11",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 71,
+   "credit": "Video: @laurago1d via Storyful / FOX 11",
+   "vol": 0.2,
+   "parts": [
+    [
+     "ICVpIUeD6gY",
+     0,
+     6,
+     0.5,
+     [
+      0.3,
+      0.05,
+      0.4,
+      0.6
+     ]
+    ],
+    [
+     "ICVpIUeD6gY",
+     26,
+     40,
+     0.6
+    ],
+    [
+     "ICVpIUeD6gY",
+     70,
+     80,
+     0.6
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Seven Calls"
+  },
+  {
+   "type": "intro",
+   "src": "vjsuy8TsgjE",
+   "t": 12,
+   "vo": 80,
+   "credit": "Video: The Facts By Howtohunt.com",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "vjsuy8TsgjE",
+   "parts": [
+    [
+     7,
+     62
+    ]
+   ],
+   "credit": "Video: The Facts By Howtohunt.com",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 81,
+   "credit": "Video: The Facts By Howtohunt.com",
+   "vol": 0.45,
+   "parts": [
+    [
+     "vjsuy8TsgjE",
+     8,
+     62,
+     0.6
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Stalked"
+  },
+  {
+   "type": "intro",
+   "src": "d4FbHzeCJjM",
+   "t": 30,
+   "vo": 90,
+   "credit": "Video: Chris / Sophia Zhang",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "d4FbHzeCJjM",
+   "parts": [
+    [
+     18,
+     45
+    ],
+    [
+     125,
+     292
+    ]
+   ],
+   "credit": "Video: Chris / Sophia Zhang",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 91,
+   "credit": "Video: Chris / Sophia Zhang",
+   "vol": 0.2,
+   "parts": [
+    [
+     "d4FbHzeCJjM",
+     205,
+     225,
+     0.5
+    ],
+    [
+     "d4FbHzeCJjM",
+     240,
+     262,
+     0.6
+    ],
+    [
+     "d4FbHzeCJjM",
+     128,
+     140,
+     0.6,
+     [
+      0.2,
+      0.1,
+      0.6,
+      0.6
+     ]
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Six Minutes"
+  },
+  {
+   "type": "intro",
+   "src": "9Pg2c",
+   "t": 20,
+   "vo": 100,
+   "credit": "Video: Kyle Burgess (@kunkyle)",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "9Pg2c",
+   "parts": [
+    [
+     0,
+     160
+    ],
+    [
+     322,
+     360
+    ]
+   ],
+   "credit": "Video: Kyle Burgess (@kunkyle)",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 101,
+   "credit": "Video: Kyle Burgess (@kunkyle)",
+   "vol": 0.15,
+   "parts": [
+    [
+     "9Pg2c",
+     45,
+     60,
+     0.5
+    ],
+    [
+     "9Pg2c",
+     95,
+     110,
+     0.6
+    ],
+    [
+     "9Pg2c",
+     330,
+     350,
+     0.6
+    ]
+   ]
+  },
+  {
+   "type": "analysis",
+   "vo": 110,
+   "vol": 0.1,
+   "parts": [
+    [
+     "K8Qf4QcYy48",
+     40,
+     47,
+     1
+    ],
+    [
+     "8d5vENjxCyg",
+     10,
+     18,
+     1
+    ],
+    [
+     "d4FbHzeCJjM",
+     240,
+     250,
+     1
+    ],
+    [
+     "9Pg2c",
+     48,
+     58,
+     1
+    ]
+   ]
+  }
+ ]
+}
