@@ -53,3 +53,10 @@ Six Minutes: Kyle Burgess (Cougarkyle), https://youtu.be/9Pg2CDCm34w
 4. "IT'S WATCHING YOU..." (Stalked): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/f3a36f24-67f2-4cc5-81b5-7473d76ae80b.jpg
 5. "NOWHERE TO RUN" (Nowhere To Go): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/91d0b565-b477-4c4a-96c5-40a923d86c6c.jpg
 6. Collage "CAUGHT IN THE WOODS": https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/09b5bfb1-d1c9-4067-8504-a577a2a34a2c.jpg
+
+## Scarier thumbnails (AI-made woods scenes, same style as the "WHO IS THAT?" reference)
+
+1. "WHO IS THAT?" (pale figure between the trees): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/f7d383d6-0f44-4ef6-af31-978e0a2ab069.jpg
+2. "WHAT IS THAT?" (trail cam crawler): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/ce01bb9a-63e6-4f84-a872-40592e3b65ef.jpg
+3. "DON'T LOOK BACK" (face peeking from behind a tree): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/f9a6caac-31d6-4fd1-8f58-cade552c9a79.jpg
+4. "IT WAS WATCHING" (figure outside the tent): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/2297ea54-d422-4b89-8993-f30b19224e67.jpg
