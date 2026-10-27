@@ -29,3 +29,4 @@ Backups:
 - #8 Abandoned hotel (o0TspPPzXf4), 13:19: f089cb2a-7a22-4abe-9ed3-8b4f62896664
 - #2 Haunted school (FKv5RXUPLhM), 12:31: 762e9764-a93a-464d-9590-a7efa06d819d
 - #9 Ghost footsteps (fLlkvDMBuqA), 1:56: 6f0effea-bee9-4c54-bbad-53951ac05151
+- #10 Haunted abandoned house (_ugp0WUo4uw), 14:40: cdd90a02-c874-46cc-bbf5-2caa92d77f37
