@@ -40,3 +40,10 @@ Bloody Murder: Sam and Colby / Island Boys Productions, https://youtu.be/-pUPZVg
 👉 Subscribe for more.
 
 #ScaryVideos #CaughtOnCamera #Abandoned #Urbex #Haunted #Creepy #AbandonedPlaces
+
+## Thumbnails (AI-made scenes, same style as the woods ones, no circles)
+
+1. "WHO IS THAT?" (figure at the end of a hospital corridor): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/f08eaab2-7544-4a6d-8656-98008b8fcf19.jpg
+2. "WHAT IS THAT?" (night-vision figure at the top of the stairs): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/a964e72c-7ae3-4186-9f17-b81a7bef5040.jpg
+3. "SOMEONE'S IN HERE" (face peeking into a school classroom): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/2076033c-3288-4aaf-b87b-9ad21d268062.jpg
+4. "DON'T GO INSIDE" (figure in the doorway of an abandoned house): https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/b09ded4d-c16d-4506-b235-97aa1b5d6995.jpg
