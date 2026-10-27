@@ -26,3 +26,4 @@ Backups:
 - #6 St. Vincent hospital (8JvlRtdsexE), 14:52: 56034c3b-efd2-421c-bd30-b3ba931f023c
 - #3 Hospital fire alarm (FbIZg6lRTpg), 14:41: 08ad5f5b-2e3f-4294-a0aa-3cdf30ca6c15
 - #1 Asylum (-pUPZVgmKCg), 17:32: 8d00dd4c-07db-47db-adfc-15a3eb47cd69
+- #8 Abandoned hotel (o0TspPPzXf4), 13:19: f089cb2a-7a22-4abe-9ed3-8b4f62896664
