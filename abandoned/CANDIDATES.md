@@ -28,3 +28,4 @@ Backups:
 - #1 Asylum (-pUPZVgmKCg), 17:32: 8d00dd4c-07db-47db-adfc-15a3eb47cd69
 - #8 Abandoned hotel (o0TspPPzXf4), 13:19: f089cb2a-7a22-4abe-9ed3-8b4f62896664
 - #2 Haunted school (FKv5RXUPLhM), 12:31: 762e9764-a93a-464d-9590-a7efa06d819d
+- #9 Ghost footsteps (fLlkvDMBuqA), 1:56: 6f0effea-bee9-4c54-bbad-53951ac05151
