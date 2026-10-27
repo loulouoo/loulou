@@ -20,3 +20,7 @@ Backups:
 - "Demonic voice" recorded in a haunted hospital: https://youtu.be/K4jRjL9NNjw
 - Ghost attack inside old Joliet State Prison: https://youtu.be/cnY4jDCbt1c
 - Haunted abandoned retirement home: https://youtu.be/yf0EfVBd0o0
+
+## Uploaded files (Higgsfield media IDs)
+
+- #6 St. Vincent hospital (8JvlRtdsexE), 14:52: 56034c3b-efd2-421c-bd30-b3ba931f023c
