@@ -30,3 +30,4 @@ Backups:
 - #2 Haunted school (FKv5RXUPLhM), 12:31: 762e9764-a93a-464d-9590-a7efa06d819d
 - #9 Ghost footsteps (fLlkvDMBuqA), 1:56: 6f0effea-bee9-4c54-bbad-53951ac05151
 - #10 Haunted abandoned house (_ugp0WUo4uw), 14:40: cdd90a02-c874-46cc-bbf5-2caa92d77f37
+- #5 Power plant alarms (D5tUHdUgAcI), 8:23: f3977c99-ccb7-40f1-bd61-32cbf1d4921f
