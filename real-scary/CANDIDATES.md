@@ -1,20 +1,18 @@
-# Actually scary: clip candidates
+# Actually scary: clip candidates (original uploads only, no news channels)
 
-Theme: real footage. Intruders caught on home cameras, hacked cameras, a 911 call, and two "ghost" clips that police and a trucker couldn't explain. All were reported by news outlets, so the facts can be checked. No gore or real deaths.
-
-| # | Clip | Source (YouTube) | Views |
+| # | Clip | Original upload | Views |
 |---|---|---|---|
-| 1 | "Box Demon": person in a paper-plate mask leaves an empty box on a York, PA porch at night | Inside Edition, https://youtu.be/KARdYKs1Lac | 1.0M |
-| 2 | Baby cam: intruder walks around a Layton, Utah bedroom while a mom and baby sleep | Daily Mail, https://youtu.be/HA-YDMyGyug (or KSL https://youtu.be/EpZojIUuCDc) | 26K |
-| 3 | Man stands over a sleeping couple in San Bernardino | Inside Edition, https://youtu.be/u78CEgsd8Vg | 871K |
-| 4 | Man found living in the crawlspace under a Lake Elsinore, CA house | New York Post, https://youtu.be/oPuH8q_Zdbw | (TikTok 6M+) |
-| 5 | Hacked Ring camera: "I'm Santa Claus" voice talks to an 8-year-old in her bedroom | WKMG, https://youtu.be/Qye6F8mNewI (or NBC Bay Area https://youtu.be/zZhMuBqk7oI) | 19K / 62K |
-| 6 | 911 call: 11-year-old hides in a closet as burglars kick in the door (Orlando) | Inside Edition, https://youtu.be/axB-IhKgaNY | 10.2M |
-| 7 | Ghost-like figure on Española, NM police station camera | KOAT, https://youtu.be/Py9h7ZC8ttk | 480K |
-| 8 | Arizona trucker's dashcam: transparent figure by the highway | FOX 10 Phoenix, https://youtu.be/l-FSJ-4LPI4 | 3.2M |
+| 1 | Ghost on a school security camera, Warren, Michigan (CCTV hallway) | BAISDEN333, https://youtu.be/J5sSzJ28q9s | 2.0M |
+| 2 | Figure moving through a pub on CCTV at 3:21 am, Sandwell | CasperWebTv, https://youtu.be/yL7JZZGDlqo | 337K |
+| 3 | "The Whistler": something whistling back across a lake at night | Kirk Mason, https://youtu.be/y9OLi6A2rzU | 785K |
+| 4 | Screams going back and forth in the Gila National Forest at night | CrooKed16Th, https://youtu.be/_AVHG0rXt-4 | 1.9M |
+| 5 | Porch camera catches something big moving at the tree line, Hocking Hills, Ohio | John Shellenbarger, https://youtu.be/7D0lLkdlot4 | 899K |
+| 6 | Something howling and moving in the woods, close up | Wayne Wilson, https://youtu.be/2CQ9zbl23dY | 303K |
+| 7 | Figure on a Scottish river filmed in broad daylight | bol etus, https://youtu.be/t2HozAGZeKE | 5.5M |
+| 8 | Hotel security guard hears screaming from room 209 (Snopes says staged) | Jimmynut22, https://youtu.be/BobA5ujHkvU | 14.2M |
 
 Backups:
-- Masked trio terrorize an Alexandria, VA family on doorbell cam (later said to be relatives pulling a prank): https://youtu.be/G4qeLPqWXns
-- Parents catch "ghosts" on baby monitors: https://youtu.be/9jr2tv7dG-s
+- "Shadow People" home video, 1997, Emerson: StingyJ, https://youtu.be/yM-heMFgzrc (554K)
+- Elisa Lam elevator CCTV (real case, she died; handle respectfully): https://youtu.be/zDYFELi_Cgk (1.7M)
 
-Notes: #5 shows a child, so her face gets blurred. #6 is audio over news visuals.
+Ruled out: staged skits with arrows on the thumbnail, podcasts, news reports.
