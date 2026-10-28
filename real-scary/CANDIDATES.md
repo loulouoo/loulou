@@ -14,3 +14,15 @@ Found by reading his transcript (his description has no credits). We use the ori
 | 8 | Randonautica: girls find a leaking suitcase wrapped in plastic, then spot a figure watching from a cornfield | TikTok | search TikTok "randonautica suitcase cornfield" |
 
 Skipped from his video: the horse field (it was her horse), the military-uniform road clip (sent to him privately).
+
+## TikTok finds (from search results; TikTok blocks opening the pages, so watch each before downloading)
+
+1. Voice whispering "let me in" on a security camera (9.4M views): https://www.tiktok.com/@loeybugxo/video/7348922806840610090
+2. Clawed hand coming out of the ceiling (original by Jem Calobrace): https://www.tiktok.com/@loeybugxo/video/7359705748483345710
+3. Home camera shows someone sleeping in her bed while she's at work: https://www.tiktok.com/@sadkitty245/video/7696865840049720584
+4. Camera flags a person in the daughter's room at 2 AM while she sleeps: https://www.tiktok.com/@tigerkingofficial_/video/7697082007750249759
+5. Woman crawling through the woods at night near a campsite: https://www.tiktok.com/@mrballen/video/6801624441974508805
+
+Backups:
+- Woman at the door late at night checking under mats for a spare key: https://www.tiktok.com/@mr.42stories/video/7598769702965415223
+- "Scariest Ring video", Mandy in Massachusetts: https://www.tiktok.com/@thedarkerdepths/video/7333732008910359854
