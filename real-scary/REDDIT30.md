@@ -42,3 +42,4 @@ Found via Reddit search results. Reddit blocks me from opening posts, so some ma
 - #13 Man knocks at 1 am (Weird 1odlhf9), 39s, Eufy, no sound: 077a2619-153f-46b0-b9e7-302815576dca
 - #12 "Always check your Ring camera" (TerrifyingAsFuck 1u48opj), 57s, vertical, has a BME (bleachmyeyes) watermark, so it's a repost: c1998ab1-fd95-43ca-9898-4274584d6f88
 - #3 Leering outside the window (blinkcameras 12ih4zr), 15s, Blink IR, original, no sound: 4094d297-894e-495f-9f58-83a28402c5b9
+- #2 Behind the fence (creepy 1ui2587), 12s, vertical IR, has sound; man hard to see, needs brightening: 74689f9d-16be-40be-b1cb-523ac8500f27
