@@ -1,0 +1,385 @@
+{
+ "segments": [
+  {
+   "type": "card",
+   "title": "4:30 AM"
+  },
+  {
+   "type": "intro",
+   "src": "kc430",
+   "t": 7,
+   "vo": 10,
+   "credit": "Video: r/kansascity",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "kc430",
+   "parts": [
+    [
+     0,
+     15.3
+    ]
+   ],
+   "credit": "Video: r/kansascity",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 11,
+   "credit": "Video: r/kansascity",
+   "vol": 0.2,
+   "parts": [
+    [
+     "kc430",
+     4,
+     10.5,
+     0.5
+    ],
+    [
+     "kc430",
+     5.5,
+     9.5,
+     0.5,
+     [
+      0.15,
+      0.05,
+      0.65,
+      0.8
+     ]
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Along The Fence"
+  },
+  {
+   "type": "intro",
+   "src": "fence_run",
+   "t": 3.6,
+   "vo": 20,
+   "credit": "Video: r/Ghosts",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "fence_run",
+   "parts": [
+    [
+     0,
+     5.1
+    ]
+   ],
+   "credit": "Video: r/Ghosts",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 21,
+   "credit": "Video: r/Ghosts",
+   "vol": 0,
+   "parts": [
+    [
+     "fence_run",
+     2.5,
+     5,
+     0.25
+    ],
+    [
+     "fence_run",
+     3,
+     4.6,
+     0.2,
+     [
+      0.25,
+      0.45,
+      0.6,
+      0.45
+     ]
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "No Shoes"
+  },
+  {
+   "type": "intro",
+   "src": "oldman",
+   "t": 14,
+   "vo": 30,
+   "credit": "Video: Bridie Steinfort",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "oldman",
+   "parts": [
+    [
+     0,
+     45.7
+    ]
+   ],
+   "credit": "Video: Bridie Steinfort",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 31,
+   "credit": "Video: Bridie Steinfort",
+   "vol": 0.2,
+   "parts": [
+    [
+     "oldman",
+     12,
+     26,
+     0.6
+    ],
+    [
+     "oldman",
+     16,
+     24,
+     0.6,
+     [
+      0,
+      0.25,
+      1,
+      0.5
+     ]
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Between 2 And 3 AM"
+  },
+  {
+   "type": "intro",
+   "src": "fig23",
+   "t": 40,
+   "vo": 40,
+   "credit": "Video: r/Unexplained",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "fig23",
+   "parts": [
+    [
+     24,
+     62.5
+    ]
+   ],
+   "credit": "Video: r/Unexplained",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 41,
+   "credit": "Video: r/Unexplained",
+   "vol": 0,
+   "parts": [
+    [
+     "fig23",
+     28,
+     44,
+     0.6,
+     [
+      0.3,
+      0.42,
+      0.26,
+      0.26
+     ]
+    ],
+    [
+     "fig23",
+     44,
+     62,
+     1,
+     [
+      0.3,
+      0.42,
+      0.26,
+      0.26
+     ]
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "On The Deck"
+  },
+  {
+   "type": "intro",
+   "src": "bear",
+   "t": 10,
+   "vo": 50,
+   "credit": "Video: TikTok",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "bear",
+   "parts": [
+    [
+     0,
+     30
+    ]
+   ],
+   "credit": "Video: TikTok",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 51,
+   "credit": "Video: TikTok",
+   "vol": 0.3,
+   "parts": [
+    [
+     "bear",
+     8,
+     20,
+     0.5
+    ],
+    [
+     "bear",
+     12,
+     19,
+     0.5,
+     [
+      0.3,
+      0.4,
+      0.6,
+      0.6
+     ]
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "The Doorway"
+  },
+  {
+   "type": "intro",
+   "src": "ghostface",
+   "t": 4,
+   "vo": 60,
+   "credit": "Video: Sandboxen",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "ghostface",
+   "parts": [
+    [
+     0,
+     102.5
+    ]
+   ],
+   "credit": "Video: Sandboxen",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 61,
+   "credit": "Video: Sandboxen",
+   "vol": 0.15,
+   "parts": [
+    [
+     "ghostface",
+     50,
+     62,
+     0.6
+    ],
+    [
+     "ghostface",
+     76,
+     92,
+     0.7
+    ]
+   ]
+  },
+  {
+   "type": "card",
+   "title": "Shadow People"
+  },
+  {
+   "type": "intro",
+   "src": "hospital",
+   "t": 4,
+   "vo": 70,
+   "credit": "Video: amylouuuu20",
+   "crop": null
+  },
+  {
+   "type": "play",
+   "src": "hospital",
+   "parts": [
+    [
+     0,
+     57.3
+    ]
+   ],
+   "credit": "Video: amylouuuu20",
+   "crop": null
+  },
+  {
+   "type": "analysis",
+   "vo": 71,
+   "credit": "Video: amylouuuu20",
+   "vol": 0.25,
+   "parts": [
+    [
+     "hospital",
+     2,
+     12,
+     0.6
+    ],
+    [
+     "hospital",
+     30,
+     46,
+     0.6
+    ],
+    [
+     "hospital",
+     30,
+     46,
+     0.6,
+     [
+      0.1,
+      0.2,
+      0.8,
+      0.5
+     ]
+    ]
+   ]
+  },
+  {
+   "type": "analysis",
+   "vo": 90,
+   "vol": 0.1,
+   "parts": [
+    [
+     "kc430",
+     6,
+     9.5,
+     1
+    ],
+    [
+     "bear",
+     12,
+     18,
+     1
+    ],
+    [
+     "hospital",
+     32,
+     40,
+     1
+    ]
+   ]
+  }
+ ]
+}
