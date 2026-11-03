@@ -213,7 +213,7 @@
   {
    "type": "intro",
    "src": "bear",
-   "t": 10,
+   "t": 4,
    "vo": 50,
    "credit": "Video: TikTok",
    "crop": null
@@ -234,25 +234,43 @@
    "type": "analysis",
    "vo": 51,
    "credit": "Video: TikTok",
-   "vol": 0.3,
+   "vol": 0.15,
    "parts": [
     [
      "bear",
-     8,
-     20,
-     0.5
+     0,
+     13,
+     0.8
     ],
     [
      "bear",
-     12,
-     19,
-     0.5,
+     0,
+     13,
+     0.8,
      [
-      0.3,
-      0.4,
-      0.6,
-      0.6
+      0.35,
+      0.1,
+      0.5,
+      0.7
      ]
+    ]
+   ]
+  },
+  {
+   "type": "play",
+   "src": "deck_boost",
+   "parts": [
+    [
+     0,
+     13.5
+    ]
+   ],
+   "credit": "Video: TikTok",
+   "caps": [
+    [
+     "TURN YOUR VOLUME UP",
+     0,
+     13.5
     ]
    ]
   },
