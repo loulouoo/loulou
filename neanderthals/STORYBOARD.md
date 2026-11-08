@@ -2,6 +2,8 @@
 
 One medium-skill MS Paint frame per script timestamp (169 total), 16:9, Higgsfield `gpt_image_2_5` (medium), project **Neanderthals vs Us - MS Paint Storyboard**. The recorded script restarts at 0:00 twice, so it's split into Part 1 (0:00-5:17), Part 2 (0:00-5:10) and Part 3 (0:00-1:20). The shared style prompt and scene list are in `scenes.py`. Frame Part 1 (5:10) was reworded (a hunting pole in a museum case instead of a spear on a table) after Higgsfield's filter flagged the original.
 
+**Full slideshow video (11:59, 1080p, frames timed to the script; Part 2 starts at 5:21, Part 3 at 10:35):** https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/ae7d128f-aa7f-4bda-ab90-8499597012dc.mp4
+
 ## Part 1
 
 - **(0:00)** Frozen Ice Age valley: pale blue sky, white snow, grey mountains, a blue river and a few pine trees. a tall thin stick-figure Ice Age modern human with black hair and a grey fur cloak walking into the valley, small footprints behind in the snow. Handwritten label "45,000 YRS AGO". · [image](https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261108_185619_dc79c7d7-7798-43aa-a213-d39babf926af.png)
