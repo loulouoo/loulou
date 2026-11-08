@@ -2,7 +2,7 @@
 
 One medium-skill MS Paint frame per script timestamp (169 total), 16:9, Higgsfield `gpt_image_2_5` (medium), project **Neanderthals vs Us - MS Paint Storyboard**. The recorded script restarts at 0:00 twice, so it's split into Part 1 (0:00-5:17), Part 2 (0:00-5:10) and Part 3 (0:00-1:20). The shared style prompt and scene list are in `scenes.py`. Frame Part 1 (5:10) was reworded (a hunting pole in a museum case instead of a spear on a table) after Higgsfield's filter flagged the original.
 
-**Full slideshow video (11:59, 1080p, frames timed to the script; Part 2 starts at 5:21, Part 3 at 10:35):** https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/acc604c6-eae8-4d80-8bbb-fdb901636fb9.mp4
+**Full slideshow video (11:59, 1080p, frames timed to the script; Part 2 starts at 5:21, Part 3 at 10:35):** download as a zip containing the MP4: https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/11d9027e-93b1-433d-ad00-b4d327f50eaa.zip (the direct MP4 links returned Access Denied)
 
 ## Part 1
 
