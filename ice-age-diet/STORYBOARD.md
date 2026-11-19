@@ -2,6 +2,8 @@
 
 One medium-skill MS Paint frame per script timestamp (173 total), 16:9, Higgsfield `gpt_image_2_5` (medium). The recorded script restarts at 0:00 twice, so it's split into Part 1 (0:00-4:26), Part 2 (0:00-5:02) and Part 3 (0:00-0:26). The shared style prompt and scene list are in `scenes.py`. Frame Part 1 (0:51) shows a pile of hunting poles with a red X instead of spears, to keep clear of Higgsfield's content filter.
 
+**Full slideshow video (10:06, 1080p, frames timed to the script; Part 2 starts at 4:30, Part 3 at 9:36):** download as a zip containing the MP4: https://d2ol7oe51mr4n9.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/bf3bc3a2-92ca-4f93-a66c-c03cdfe02f35.zip
+
 ## Part 1
 
 - **(0:00)** Night Ice Age camp: dark blue sky with white stars, white snowy ground, an orange campfire, a brown hide tent. a stick-figure Ice Age person with scruffy brown hair and a brown fur tunic sitting by the fire, hands out to warm them. Handwritten label "30,000 YRS AGO". · [image](https://d8j0ntlcm91z4.cloudfront.net/user_3JmeyhT6HR0AQ60Jl0BCMTgyyoT/hf_20261119_173059_c1010cb6-c675-42f4-9aff-1a922763adbe.png)
