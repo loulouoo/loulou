@@ -1,6 +1,6 @@
 # The Ice Age Diet: script
 
-Rewritten from the "super predator" script: same pacing and "you" voice, same structure (cold open with a promise, strange finds in the ground, the "how" in three parts, a twist, then the turn on the viewer). About 2,050 words, roughly 13 to 14 min at the same pace.
+Rewritten from the "super predator" script: same pacing and "you" voice, same structure (cold open with a promise, strange finds in the ground, the "how" in three parts, a twist, then the turn on the viewer). About 1,760 words, roughly 11 to 12 min at the same pace.
 
 ---
 
